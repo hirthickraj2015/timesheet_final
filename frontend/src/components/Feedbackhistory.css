@@ -1,0 +1,138 @@
+/* CSS Classes for styling */
+.bodyts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #fff; /* Change to match your color palette */
+  color: #19105b; /* Change to match your color palette */
+}
+
+.answer-text {
+  color: #ff6196; /* Change to match your color palette */
+}
+
+.feedback-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 10px; /* Add margin for better spacing */
+}
+
+.card {
+  width: calc(33.33% - 20px); /* Adjust width as needed */
+  background-color: #ffe5ee; /* Change to match your color palette */
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease; /* Add transition for hover effect */
+  width: 100%; /* Ensure the card takes full width */
+  margin-bottom: 20px; /* Add some space between cards */
+ }
+.card:hover {
+  transform: scale(1.05); /* Increase size on hover */
+}
+
+.card-title {
+  color: #19105b; /* Change to match your color palette */
+ font-size: 24px; /* Increase font size */ /* Change to match your color palette */
+}
+
+.card-text {
+  color: #6a6c71; /* Change to match your color palette */
+  margin-top: 10px; /* Add some space above the text */
+ }
+
+.user-role {
+  color: #19105b; /* Match the color with the user's name */
+  font-size: 14px; /* Decrease font size */
+ }
+.modal {
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-dialog {
+  margin: 0 auto; /* Center horizontally */
+  max-width: 500px;
+}
+
+.modal-content {
+  background-color: #fefefe;
+  padding: 20px;
+  border: 1px solid #888;
+  border-radius: 10px;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.modal-title {
+  color: #19105b; /* Change to match your color palette */
+}
+
+.modal-body {
+  max-height: 400px;
+  overflow-y: auto;
+  scrollbar-width: thin; /* "auto" or "thin" */
+  scrollbar-color: #888 #f0f0f0; /* thumb and track */
+}
+
+.close {
+  color: #aaa;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-footer {
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  text-align: right; /* Align the close button to the right */
+}
+
+.btndt {
+  background-color: #19105b; /* Change to match your color palette */
+}
+
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f0f0f0; /* Color of the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888; /* Color of the scrollbar thumb */
+  border-radius: 5px; /* Rounded corners */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Color of the scrollbar thumb on hover */
+}

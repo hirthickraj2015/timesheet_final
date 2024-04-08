@@ -1,0 +1,47 @@
+/* CSS Classes for styling */
+.project-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff; /* Change to match your color palette */
+    color: #19105b; /* Change to match your color palette */
+  }
+  
+  .project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 10px;
+  }
+  
+  .project-card {
+    width: 100%; /* Set width to 100% */
+    background-color: #ffe5ee; /* Change to match your color palette */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-heading {
+    font-weight: bold;
+    color: #19105b; /* Change to match your color palette */
+  }
+  
+  .card-value {
+    margin-top: 5px;
+    color: #6a6c71; /* Change to match your color palette */
+  }
+  
+  .title-status {
+    color: #19105b; /* Change to match your color palette */
+  }
+  .project-card:hover {
+    transform: scale(1.05); 
+    transition: 0.5s;/* Increase size on hover */
+  }
+  

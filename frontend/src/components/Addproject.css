@@ -1,0 +1,143 @@
+/* CSS Classes for styling */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #19105b;
+  width: 90%;
+}
+
+.heading {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.error-message {
+  color: #ff0000;
+}
+
+.success-message {
+  color: #008000;
+}
+
+.form {
+  background-color: #ffe5ee;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  height: 50% !important;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 13px;
+  font-weight: bold;
+  color: #19105b;
+  margin-bottom: 8px;
+}
+
+.form-control {
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 8px;
+  font-size: 13px;
+  color: #6a6c71;
+}
+
+.form-control:hover {
+  border-color: #999;
+}
+
+.form-control:focus {
+  border-color: #19105b;
+}
+
+.select-control {
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 8px;
+  font-size: 13px;
+  color: #6a6c71;
+  border-radius: 5px;
+}
+
+.select-control:hover {
+  border-color: #999;
+}
+
+.select-control:focus {
+  border-color: #19105b;
+}
+
+.btn {
+  background-color: #19105b;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #ff6196;
+}
+
+.btn-primary {
+  background-color: #19105b;
+}
+
+.btn-primary:hover {
+  background-color: #ff6196;
+}
+
+.add-task {
+  display: flex;
+  gap: 10px;
+}
+
+.add-task input[type="text"] {
+  flex: 1;
+}
+
+.add-task button {
+  background-color: #19105b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.add-task button:hover {
+  background-color: #ff6196;
+}
+
+.task-list {
+  margin-top: 10px;
+}
+
+.task-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+.btnda{
+  margin-top: 25px !important;
+}
+.task-list li {
+  margin-bottom: 5px;
+}

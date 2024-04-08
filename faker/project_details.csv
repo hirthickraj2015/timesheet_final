@@ -1,0 +1,1001 @@
+projectName,projectId,category,startDate,endDate
+"Akorn, Inc.",PID1,Sales Activity,2014-12-07,2015-05-23
+AbbVie Inc.,PID2,Client Project,2017-10-04,2018-01-08
+Jafra Cosmetics International Inc,PID3,Sales Activity,2014-01-16,2014-06-24
+Walgreen Company,PID4,Client Project,2024-02-17,2024-06-25
+"Aphena Pharma Solutions - Tennessee, LLC",PID5,Client Project,2020-06-13,2020-11-02
+Sanum Kehlbeck GmbH & Co. KG,PID6,Sales Activity,2021-03-21,2021-10-09
+StriVectin Operating Company Inc.,PID7,Client Project,2015-05-28,2015-10-08
+"Physicians Total Care, Inc.",PID8,Client Project,2018-08-15,2019-02-23
+VersaPharm Incorporated,PID9,Client Project,2015-07-25,2016-01-09
+Keen Compressed Gas Co. Inc.,PID10,Sales Activity,2015-01-11,2015-05-29
+Homeocare Laboratories,PID11,Client Project,2020-08-05,2020-11-10
+"International Labs, Inc.",PID12,BAU Activity,2020-12-03,2021-06-16
+STAT Rx USA LLC,PID13,Client Project,2018-06-09,2018-09-18
+Cardinal Health,PID14,Sales Activity,2019-12-20,2020-07-10
+Mylan Pharmaceuticals Inc.,PID15,Sales Activity,2017-10-16,2018-01-30
+Natures Way Holding Co.,PID16,Client Project,2019-01-26,2019-05-31
+REMEDYREPACK INC.,PID17,Client Project,2019-07-22,2020-01-07
+Apotex Corp,PID18,Client Project,2021-01-02,2021-05-11
+REMEDYREPACK INC.,PID19,Sales Activity,2019-02-02,2019-08-16
+PUR MINERALS,PID20,Client Project,2015-07-16,2016-02-01
+Laboratoires Clarins S.A.,PID21,Sales Activity,2013-10-27,2014-04-12
+Zydus Pharmaceuticals (USA) Inc.,PID22,BAU Activity,2022-12-30,2023-05-16
+"NCS HealthCare of KY, Inc dba Vangard Labs",PID23,Sales Activity,2021-02-14,2021-07-25
+BCM Cosmetique SAS,PID24,Sales Activity,2014-02-14,2014-06-01
+"Church & Dwight Co., Inc.",PID25,Client Project,2020-02-15,2020-06-01
+VIATREXX BIO INCORPORATED,PID26,Client Project,2018-10-26,2019-02-15
+"Amneal Pharmaceuticals of New York, LLC",PID27,Sales Activity,2018-12-26,2019-07-15
+AnazaoHealth Corporation,PID28,Sales Activity,2023-12-09,2024-06-20
+"Preferred Pharmaceuticals, Inc",PID29,Sales Activity,2014-12-08,2015-04-14
+Wal-Mart Stores Inc,PID30,Client Project,2017-03-27,2017-08-16
+Sandoz Inc,PID31,Client Project,2016-12-04,2017-03-19
+"Ascend Laboratories, LLC",PID32,Client Project,2014-01-02,2014-04-20
+GlaxoSmithKline Consumer Healthcare LP,PID33,Client Project,2013-07-23,2014-01-08
+Lake Erie Medical DBA Quality Care Products LLC,PID34,Sales Activity,2018-02-02,2018-07-10
+"PD-Rx Pharmaceuticals, Inc.",PID35,BAU Activity,2016-11-19,2017-04-27
+"Advanced Beauty Systems, Inc.",PID36,Client Project,2022-06-19,2022-10-09
+REMEDYREPACK INC.,PID37,Client Project,2020-06-09,2020-11-21
+Teva Pharmaceuticals USA Inc,PID38,Client Project,2018-05-29,2018-09-06
+Jubilant HollisterStier LLC,PID39,BAU Activity,2017-03-15,2017-07-22
+"Hospira, Inc.",PID40,BAU Activity,2019-10-06,2020-01-20
+Sandoz Inc,PID41,Client Project,2015-09-05,2016-01-16
+Hy-Vee,PID42,Client Project,2018-04-14,2018-09-24
+"Shopko Stores Operating Co., LLC",PID43,Sales Activity,2014-12-20,2015-06-29
+King Bio Inc.,PID44,Client Project,2018-03-02,2018-06-10
+H E B,PID45,Client Project,2021-10-31,2022-04-13
+"Global Pharmaceuticals, Division of Impax Laboratories Inc.",PID46,Client Project,2020-07-17,2021-01-05
+Par Pharmaceutical Inc.,PID47,BAU Activity,2016-11-13,2017-03-03
+Rimmel Inc.,PID48,Sales Activity,2021-08-17,2021-12-25
+"Elorac, Inc.",PID49,Sales Activity,2017-09-15,2018-03-24
+Major Pharmaceuticals,PID50,BAU Activity,2022-07-24,2023-01-03
+Apotex Corp.,PID51,BAU Activity,2018-04-21,2018-11-08
+"Watson Pharma, Inc.",PID52,Client Project,2020-03-26,2020-10-08
+"YIWU HAODING MEDICAL CO.,LTD",PID53,Client Project,2020-08-14,2020-11-22
+Apotex Corp.,PID54,Client Project,2014-01-06,2014-04-24
+Northwind Pharmaceuticals,PID55,Client Project,2020-01-09,2020-07-19
+"Kareway Product, Inc.",PID56,Client Project,2018-09-22,2019-03-28
+Feelgood Health,PID57,Sales Activity,2017-01-07,2017-04-22
+"Liddell Laboratories, Inc.",PID58,Client Project,2013-10-02,2014-01-08
+Lake Erie Medical DBA Quality Care Products LLC,PID59,Client Project,2016-12-15,2017-03-23
+"Ningbo Dowland Daily Health Co., Ltd",PID60,BAU Activity,2019-01-18,2019-07-23
+Precision Dose Inc.,PID61,Client Project,2014-02-25,2014-07-30
+Zenith Medicosm SL,PID62,Client Project,2017-12-20,2018-06-24
+Kinray Inc,PID63,Sales Activity,2018-02-02,2018-06-07
+"Meijer Distribution, Inc",PID64,Client Project,2014-12-02,2015-06-06
+"SJ Creations, Inc.",PID65,BAU Activity,2019-01-15,2019-07-02
+Dr Reddys Laboratories Inc,PID66,Sales Activity,2019-04-19,2019-10-04
+"Silarx Pharmaceutical, Inc",PID67,Client Project,2017-05-06,2017-10-25
+"Goodier Cosmetics, LP",PID68,Client Project,2017-12-05,2018-06-12
+"BioActive Nutritional, Inc.",PID69,Client Project,2017-06-10,2017-10-25
+"Nelco Laboratories, Inc.",PID70,Client Project,2023-09-24,2024-02-11
+McKesson,PID71,Client Project,2022-03-31,2022-07-15
+GlaxoSmithKline Consumer Heathcare LP,PID72,Sales Activity,2015-04-03,2015-07-15
+AstraZeneca LP,PID73,BAU Activity,2014-07-14,2014-11-22
+SHISEIDO AMERICAS CORPORATION,PID74,BAU Activity,2014-08-30,2015-03-20
+"Rowpar Pharmaceuticals, Inc.",PID75,Client Project,2014-04-02,2014-10-17
+Aidarex Pharmaceuticals LLC,PID76,Sales Activity,2017-04-09,2017-08-16
+"G&W Laboratories, Inc.",PID77,Sales Activity,2015-08-08,2016-01-14
+Amerisource Bergen,PID78,BAU Activity,2015-05-13,2015-10-31
+"SHISEIDO CO., LTD.",PID79,Client Project,2023-10-24,2024-03-29
+Cadila Healthcare Limited,PID80,BAU Activity,2015-07-08,2015-11-22
+"Hospira, Inc.",PID81,BAU Activity,2017-06-24,2017-11-01
+Raphabio Inc,PID82,Sales Activity,2022-05-07,2022-09-24
+Alvogen Inc.,PID83,BAU Activity,2016-09-08,2017-03-19
+L'Oreal USA Products Inc,PID84,Sales Activity,2016-02-13,2016-08-01
+Cantrell Drug Company,PID85,BAU Activity,2019-02-27,2019-06-12
+"Buckeye International, Inc.",PID86,BAU Activity,2024-04-07,2024-08-17
+Baxter Healthcare Corporation,PID87,Client Project,2017-03-19,2017-08-29
+KAISER FOUNDATION HOSPITALS,PID88,Client Project,2021-10-06,2022-01-20
+Johnson & Johnson Consumer Sante Beaute France,PID89,BAU Activity,2018-11-08,2019-05-20
+"Antigen Laboratories, Inc.",PID90,Sales Activity,2017-03-15,2017-09-23
+Neutrogena Corporation,PID91,Sales Activity,2021-01-30,2021-07-13
+L Perrigo Company,PID92,Sales Activity,2018-03-29,2018-08-06
+Colgate-Palmolive Company,PID93,Client Project,2019-10-11,2020-03-02
+"Blenheim Pharmacal, Inc.",PID94,Client Project,2014-07-18,2014-11-23
+West-Ward Pharmaceutical Corp,PID95,Sales Activity,2013-01-28,2013-08-06
+Procter & Gamble Manufacturing Co.,PID96,Client Project,2018-07-12,2018-11-27
+Benco Dental Company,PID97,BAU Activity,2016-06-04,2016-11-22
+"Nelco Laboratories, Inc.",PID98,BAU Activity,2013-08-15,2013-12-05
+"Upsher-Smith Laboratories, Inc.",PID99,Sales Activity,2013-05-20,2013-08-27
+"ALK-Abello, Inc.",PID100,Client Project,2019-12-11,2020-06-15
+VVF Kansas Services LLC,PID101,Sales Activity,2023-12-22,2024-07-04
+AMERIFOODS TRADING COMPANY,PID102,Client Project,2023-10-11,2024-01-23
+Best Choice,PID103,Sales Activity,2013-02-23,2013-06-04
+"SIGMAPHARM LABORATORIES, LLC",PID104,Client Project,2015-10-11,2016-01-27
+Cardinal Health,PID105,Client Project,2019-01-08,2019-05-15
+Apotex Corp,PID106,Client Project,2015-03-17,2015-09-04
+"PD-Rx Pharmaceuticals, Inc.",PID107,Client Project,2013-06-26,2013-11-15
+Ventura International LTD,PID108,BAU Activity,2020-02-13,2020-07-19
+"Taro Pharmaceuticals U.S.A., Inc.",PID109,Client Project,2013-08-05,2013-12-16
+Sun Pharma Global FZE,PID110,Client Project,2016-02-11,2016-05-16
+Validus Pharmaceuticals LLC,PID111,Client Project,2017-07-04,2017-12-21
+Uriel Pharmacy Inc.,PID112,Sales Activity,2014-02-11,2014-05-26
+"Blenheim Pharmacal, Inc.",PID113,Client Project,2022-04-07,2022-10-27
+"Bath & Body Works, Inc.",PID114,BAU Activity,2018-11-30,2019-04-19
+Vi-Jon,PID115,Client Project,2013-08-15,2013-12-25
+"Isis Medical, Inc.",PID116,Sales Activity,2015-05-14,2015-11-30
+"Watson Laboratories, Inc.",PID117,Client Project,2020-05-08,2020-08-19
+REMEDYREPACK INC.,PID118,Client Project,2017-10-05,2018-01-23
+Bryant Ranch Prepack,PID119,Client Project,2019-05-24,2019-10-13
+"ALK-Abello, Inc.",PID120,Client Project,2017-10-18,2018-03-28
+Kinray Inc.,PID121,BAU Activity,2015-11-22,2016-02-28
+"Chattem, Inc.",PID122,Client Project,2013-05-04,2013-10-18
+MAKE UP ART COSMETICS,PID123,BAU Activity,2018-10-18,2019-05-04
+VIATREXX BIO INCORPORATED,PID124,BAU Activity,2016-08-28,2017-03-12
+L. Perrigo Company,PID125,Client Project,2023-06-23,2023-09-27
+Barr Laboratories Inc.,PID126,Client Project,2023-11-22,2024-05-10
+CHANEL PARFUMS BEAUTE,PID127,Sales Activity,2021-02-10,2021-05-18
+Walgreen Company,PID128,Client Project,2020-01-20,2020-06-06
+Baxter Healthcare Corporation,PID129,Client Project,2019-05-20,2019-09-03
+Mission Pharmacal Company,PID130,Sales Activity,2013-06-26,2013-11-01
+BJWC,PID131,Sales Activity,2024-01-15,2024-05-24
+Cardinal Health,PID132,Sales Activity,2013-05-27,2013-11-16
+"Physicians Total Care, Inc.",PID133,Client Project,2021-01-09,2021-04-20
+"Synthon Pharmaceuticals, Inc.",PID134,Client Project,2016-02-03,2016-07-20
+"Physicians Total Care, Inc.",PID135,Client Project,2017-12-01,2018-03-19
+Feelgood Health,PID136,Client Project,2021-04-29,2021-10-10
+"Philosophy, Inc.",PID137,Sales Activity,2020-02-17,2020-08-02
+Rite Aid,PID138,Client Project,2017-10-05,2018-03-15
+Space Brands Limited,PID139,Sales Activity,2014-01-31,2014-08-07
+REMEDYREPACK INC.,PID140,Client Project,2021-07-29,2022-01-17
+Hyland's,PID141,Client Project,2016-11-03,2017-04-20
+"Cypress Pharmaceutical, Inc",PID142,BAU Activity,2016-01-19,2016-06-28
+"Preferred Pharmaceuticals, Inc",PID143,Client Project,2019-08-09,2020-01-20
+Mylan Pharmaceuticals Inc.,PID144,Sales Activity,2024-03-09,2024-06-19
+Safeway Inc.,PID145,Sales Activity,2013-03-28,2013-07-17
+"Peaceful Mountain, Inc.",PID146,Sales Activity,2016-09-19,2017-03-23
+American Health Packaging,PID147,Client Project,2016-06-09,2016-12-15
+"Cosmetic Specialty Labs, Inc.",PID148,Sales Activity,2013-04-16,2013-09-05
+"Physicians Total Care, Inc.",PID149,BAU Activity,2017-11-22,2018-06-02
+Danes Welding Supplies Inc.,PID150,Client Project,2016-01-31,2016-07-07
+Cardinal Health,PID151,BAU Activity,2017-01-09,2017-04-18
+REMEDYREPACK INC.,PID152,Client Project,2019-01-08,2019-07-18
+Kinray Inc,PID153,Sales Activity,2023-10-02,2024-02-15
+"SJ Creations, Inc.",PID154,Client Project,2018-03-10,2018-08-15
+LABORATOIRES M&L,PID155,Sales Activity,2017-11-24,2018-06-10
+"Bolero Home Decor, Inc.",PID156,Client Project,2024-02-08,2024-08-18
+L'Oreal USA Products Inc,PID157,Client Project,2023-05-29,2023-09-06
+Rebel Distributors Corp,PID158,Client Project,2023-04-24,2023-09-28
+VENTURA INTERNATIONAL LTD,PID159,Client Project,2023-06-30,2024-01-09
+Unit Dose Services,PID160,BAU Activity,2018-10-14,2019-03-03
+"Sato Pharmaceutical Co., Ltd.",PID161,BAU Activity,2016-05-20,2016-09-03
+"Camellix, LLC",PID162,Sales Activity,2015-12-04,2016-05-08
+BluePoint Laboratories,PID163,Client Project,2023-11-15,2024-03-23
+"MIX & MATCH CO., LTD.",PID164,Client Project,2018-12-15,2019-03-22
+Cardinal Health,PID165,Client Project,2016-10-29,2017-05-07
+L'Oreal USA Products Inc,PID166,Sales Activity,2018-04-14,2018-08-22
+"AMI Cosmetic Co.,Ltd.",PID167,Client Project,2020-07-20,2021-01-28
+AbbVie Inc.,PID168,Client Project,2023-11-22,2024-05-01
+"Roxane Laboratories, Inc.",PID169,Client Project,2020-06-01,2020-09-08
+Cardinal Health,PID170,Client Project,2018-03-06,2018-09-19
+Actavis Elizabeth LLC,PID171,Client Project,2013-07-08,2013-12-20
+Pharmacia and Upjohn Company,PID172,BAU Activity,2019-03-03,2019-07-12
+DIRECT RX,PID173,Client Project,2021-03-16,2021-09-30
+"Wausau Paper Towel & Tissue, LLC",PID174,Sales Activity,2014-11-25,2015-06-01
+Apotheca Company,PID175,Sales Activity,2020-07-27,2020-11-13
+"ALK-Abello, Inc.",PID176,BAU Activity,2017-04-15,2017-08-24
+"AvKARE, Inc.",PID177,Client Project,2013-11-29,2014-03-07
+"General Injectables & Vaccines, Inc",PID178,Client Project,2013-10-27,2014-02-02
+"AvKARE, Inc.",PID179,Client Project,2016-08-22,2017-01-07
+Combe Incorporated,PID180,Client Project,2015-12-06,2016-06-10
+Prasco Laboratories,PID181,Sales Activity,2020-02-02,2020-05-16
+Physician Therapeutics LLC,PID182,Client Project,2024-03-12,2024-08-29
+JayMac Pharmaceuticals LLC,PID183,Client Project,2016-12-08,2017-03-21
+LaCorium Health International Pty Ltd,PID184,Client Project,2023-05-21,2023-10-08
+CHANEL PARFUMS BEAUTE,PID185,Client Project,2020-10-25,2021-02-04
+SHISEIDO AMERICAS CORPORATION,PID186,BAU Activity,2021-05-05,2021-11-25
+"Preferred Pharmaceuticals, Inc.",PID187,BAU Activity,2020-02-28,2020-09-17
+"Nelco Laboratories, Inc.",PID188,Sales Activity,2017-01-30,2017-06-04
+"Preferred Pharmaceuticals, Inc.",PID189,Sales Activity,2018-07-08,2018-11-23
+Mylan Pharmaceuticals Inc.,PID190,BAU Activity,2022-11-04,2023-02-09
+The Mentholatum Company,PID191,Client Project,2019-11-03,2020-03-08
+"The Hain Celestial Group, Inc.",PID192,Sales Activity,2016-08-30,2017-03-16
+Cardinal Health,PID193,Client Project,2014-12-28,2015-06-15
+Compressed Gases Inc,PID194,Client Project,2021-03-08,2021-06-22
+"Altura Pharmaceuticals, Inc.",PID195,Client Project,2016-07-02,2016-12-11
+Mylan Pharmaceuticals Inc.,PID196,Client Project,2021-12-18,2022-04-23
+"Peaceful Mountain, Inc.",PID197,Client Project,2018-10-04,2019-02-14
+Ventura International LTD.,PID198,Sales Activity,2014-03-11,2014-07-18
+"Taro Pharmaceuticals U.S.A., Inc.",PID199,Client Project,2013-07-28,2014-01-03
+"Preferred Pharmaceuticals, Inc",PID200,Sales Activity,2018-01-12,2018-06-21
+Dukal Corporation,PID201,Client Project,2019-03-28,2019-09-05
+Zydus Pharmaceuticals USA Inc,PID202,Client Project,2015-08-11,2016-01-31
+"BioActive Nutritional, Inc.",PID203,Client Project,2023-09-17,2024-02-06
+Bottega di Lungavita Srl,PID204,Client Project,2018-05-28,2018-10-17
+Rebel Distributors Corp,PID205,Client Project,2020-11-24,2021-06-06
+"Caraco Pharmaceutical Laboratories, Ltd.",PID206,Sales Activity,2020-11-20,2021-05-28
+Sam's West Inc,PID207,Client Project,2015-11-24,2016-04-10
+Midlothian Laboratories,PID208,Client Project,2017-06-01,2017-09-19
+"Physicians Total Care, Inc.",PID209,Client Project,2018-04-08,2018-07-24
+"Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc.",PID210,Sales Activity,2023-07-14,2023-11-27
+American Health Packaging,PID211,BAU Activity,2018-03-23,2018-08-30
+Cardinal Health,PID212,Client Project,2017-09-17,2018-03-08
+Cardinal Health,PID213,Client Project,2013-02-02,2013-08-21
+"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",PID214,Client Project,2022-11-21,2023-06-07
+"TROY MANUFACTURING, INC",PID215,Client Project,2013-01-16,2013-05-03
+Cardinal Health,PID216,Client Project,2015-05-29,2015-12-18
+Paramesh Banerji Life Sciences LLC,PID217,Client Project,2022-05-12,2022-08-23
+"Exelan Pharmaceuticals, Inc.",PID218,BAU Activity,2016-05-29,2016-10-14
+Unique Holding Group Inc,PID219,Client Project,2013-07-20,2014-02-06
+REMEDYREPACK INC.,PID220,BAU Activity,2017-09-20,2018-02-04
+"Preferred Pharmaceuticals, Inc.",PID221,Sales Activity,2013-01-07,2013-04-27
+"Ascend Laboratories, LLC",PID222,Client Project,2021-09-09,2022-02-25
+Lake Erie Medical DBA Quality Care Products LLC,PID223,Sales Activity,2014-03-31,2014-07-15
+"Preferred Pharmaceuticals, Inc.",PID224,Client Project,2013-08-24,2014-02-28
+Zurcare dba Reliable Medical,PID225,Client Project,2013-01-18,2013-08-05
+"Chattem, Inc.",PID226,Client Project,2020-08-19,2021-02-07
+AMOREPACIFIC,PID227,Sales Activity,2020-06-22,2020-11-10
+Portal Pharmaceutical,PID228,Sales Activity,2021-02-02,2021-05-10
+Amerisource Bergen,PID229,Client Project,2013-01-16,2013-07-30
+PUR MINERALS,PID230,BAU Activity,2022-04-07,2022-08-21
+"Amneal Pharmaceuticals of New York, LLC",PID231,Client Project,2014-02-12,2014-05-28
+"SHISEIDO CO., LTD.",PID232,Client Project,2015-07-07,2016-01-25
+Xerion Dispensary Ltd.,PID233,Client Project,2023-11-15,2024-04-23
+"Matrixx Initiatives, Inc.",PID234,Client Project,2023-04-30,2023-08-12
+Dolgencorp Inc,PID235,Sales Activity,2017-02-13,2017-08-22
+"Dispensing Solutions, Inc.",PID236,Client Project,2013-02-07,2013-05-16
+Purdue Pharma LP,PID237,Client Project,2019-10-25,2020-02-05
+Aidarex Pharmaceuticals LLC,PID238,Client Project,2018-11-04,2019-02-13
+"MedVantage Pharmaceutical, LLC",PID239,BAU Activity,2017-07-23,2017-11-08
+Amgen Inc,PID240,Client Project,2015-07-20,2016-02-07
+Teva Pharmaceuticals USA Inc,PID241,Client Project,2020-03-01,2020-09-09
+"H.J. Harkins Company, Inc.",PID242,Client Project,2017-05-11,2017-08-20
+"Rejoice International, Inc.",PID243,BAU Activity,2023-02-02,2023-08-11
+L. Perrigo Company,PID244,Client Project,2014-05-31,2014-12-20
+Major Pharmaceuticals,PID245,Client Project,2016-07-05,2016-10-20
+SJ Pharmaceuticals,PID246,Client Project,2014-10-30,2015-05-18
+Mission Pharmacal Company,PID247,Client Project,2019-07-14,2019-11-03
+Keystone Laboratories,PID248,Client Project,2014-08-01,2014-12-18
+Sanum Kehlbeck GmbH & Co. KG,PID249,Client Project,2021-04-05,2021-07-18
+Mylan Institutional Inc.,PID250,BAU Activity,2020-09-11,2021-02-15
+"Narvarro Discount Pharmarcies,LLC",PID251,Client Project,2013-10-20,2014-02-07
+Zydus Pharmaceuticals (USA) Inc.,PID252,Client Project,2017-01-22,2017-07-27
+GlaxoSmithKline LLC,PID253,Client Project,2019-06-12,2019-10-20
+"SKINFOOD CO., LTD.",PID254,Client Project,2013-09-19,2014-01-29
+Clinical Solutions Wholesale,PID255,Sales Activity,2016-10-16,2017-02-24
+"Amazonian Naturals, Inc.",PID256,Client Project,2020-10-23,2021-02-12
+Target Corporation,PID257,Client Project,2015-04-09,2015-10-14
+Parfums Christian Dior,PID258,Sales Activity,2023-04-27,2023-10-15
+"Deseret Biologicals, Inc.",PID259,Client Project,2015-02-28,2015-08-05
+Precision Dose Inc.,PID260,Sales Activity,2021-07-07,2021-12-23
+"LIFElabs, a Division of Atico International USA, INC.",PID261,Client Project,2020-07-28,2021-02-07
+"Libertas Pharma, Inc.",PID262,Client Project,2013-03-11,2013-07-26
+HyVee Inc,PID263,Client Project,2018-02-05,2018-08-17
+Unit Dose Services,PID264,Client Project,2023-08-11,2023-12-21
+"NUGA MEDICAL CO., LTD.",PID265,Sales Activity,2019-09-30,2020-02-13
+Cardinal Health,PID266,Client Project,2019-04-02,2019-09-18
+Forces of Nature,PID267,Client Project,2020-03-21,2020-08-30
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID268,BAU Activity,2023-09-01,2024-03-14
+Neutrogena Corporation,PID269,Sales Activity,2014-05-06,2014-08-13
+"Preferred Pharmaceuticals, Inc",PID270,Client Project,2014-02-16,2014-06-02
+Unit Dose Services,PID271,BAU Activity,2022-04-01,2022-09-12
+Guerbet LLC,PID272,Client Project,2014-06-29,2014-11-06
+"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",PID273,Sales Activity,2013-11-22,2014-04-05
+"NCS HealthCare of KY, Inc dba Vangard Labs",PID274,Sales Activity,2020-10-24,2021-04-30
+Procter and Gamble Manufacturing Company,PID275,Sales Activity,2022-06-01,2022-11-09
+"Teva Women's Health, Inc.",PID276,Client Project,2024-04-03,2024-07-10
+"PD-Rx Pharmaceuticals, Inc.",PID277,BAU Activity,2023-10-24,2024-05-05
+"Nelco Laboratories, Inc.",PID278,Client Project,2018-08-13,2018-12-19
+HOMEOLAB USA INC.,PID279,Client Project,2016-10-17,2017-01-21
+"Nelco Laboratories, Inc.",PID280,BAU Activity,2023-03-18,2023-08-31
+"Roxane Laboratories, Inc",PID281,BAU Activity,2016-08-02,2017-01-10
+"Physicians Total Care, Inc.",PID282,Client Project,2014-06-18,2014-12-31
+SHISEIDO AMERICA INC.,PID283,Client Project,2023-07-29,2024-02-02
+"Blu Pharmaceuticals, LLC",PID284,Sales Activity,2014-06-05,2014-10-12
+Ranbaxy Pharmaceuticals Inc.,PID285,Client Project,2018-01-12,2018-07-20
+"Boca Pharmacal, LLC",PID286,Client Project,2021-06-29,2022-01-18
+"Best Sanitizers, Inc",PID287,Sales Activity,2014-04-14,2014-09-27
+Legacy Pharmaceutical Packaging,PID288,Sales Activity,2021-12-27,2022-04-12
+WALGREEN CO.,PID289,Client Project,2014-07-20,2015-01-01
+"Physicians Total Care, Inc.",PID290,Client Project,2022-02-14,2022-07-22
+Bobbi Brown Professional Cosmetics Inc.,PID291,Sales Activity,2018-04-20,2018-08-04
+Western Family Foods Inc,PID292,Client Project,2022-02-23,2022-08-07
+Topco Associates LLC,PID293,Client Project,2020-12-19,2021-05-23
+"Nelco Laboratories, Inc.",PID294,Client Project,2018-09-01,2019-03-05
+Jafra Cosmetics International Inc,PID295,Client Project,2021-09-06,2022-03-17
+Uriel Pharmacy Inc.,PID296,BAU Activity,2019-10-19,2020-01-29
+Dr. Reddy's Laboratories Limited,PID297,Client Project,2016-06-27,2016-12-16
+STAT Rx USA LLC,PID298,Client Project,2013-11-19,2014-03-28
+St. Marys Medical Park Pharmacy,PID299,Sales Activity,2022-12-09,2023-05-25
+Mutual Pharmaceutical,PID300,Sales Activity,2022-09-10,2023-01-28
+Apotheca Company,PID301,Client Project,2020-03-23,2020-10-08
+American Health Packaging,PID302,Client Project,2020-05-09,2020-10-14
+"Deseret Biologicals, Inc.",PID303,Sales Activity,2022-11-29,2023-06-17
+"NCS HealthCare of KY, Inc dba Vangard Labs",PID304,Sales Activity,2014-09-13,2015-03-29
+"Mission Hills, S.A.de C.V.",PID305,BAU Activity,2014-09-15,2015-02-19
+Mylan Institutional Inc.,PID306,BAU Activity,2023-06-20,2023-11-06
+Stat Rx USA,PID307,Client Project,2020-09-19,2021-01-25
+"Ventura Corporation (San Juan, P.R)",PID308,BAU Activity,2016-02-09,2016-08-14
+"Nelco Laboratories, Inc.",PID309,Client Project,2023-11-09,2024-03-25
+Ranbaxy Pharmaceuticals Inc.,PID310,Client Project,2020-06-13,2020-10-02
+"Hospira, Inc.",PID311,Sales Activity,2020-03-07,2020-08-24
+A-S Medication Solutions LLC,PID312,Sales Activity,2020-11-26,2021-06-09
+"Fresenius Kabi USA, LLC",PID313,BAU Activity,2019-04-27,2019-11-10
+"NATURE REPUBLIC CO., LTD.",PID314,Sales Activity,2017-02-24,2017-09-07
+"Energique, Inc.",PID315,Sales Activity,2015-05-20,2015-08-28
+"Physicians Total Care, Inc.",PID316,Client Project,2022-09-17,2023-04-03
+King Bio Inc.,PID317,Client Project,2015-10-08,2016-01-13
+Sun Pharmaceutical Industries Limited,PID318,Sales Activity,2021-01-18,2021-06-05
+STAT Rx USA LLC,PID319,Sales Activity,2015-01-02,2015-07-06
+Barr Laboratories Inc.,PID320,Client Project,2014-05-05,2014-09-14
+Walgreens,PID321,Sales Activity,2022-11-13,2023-02-20
+Insight Pharmaceuticals LLC,PID322,Client Project,2016-09-16,2017-02-01
+"AMI Cosmetic Co.,Ltd.",PID323,BAU Activity,2019-07-23,2019-12-08
+"Lupin Pharmaceuticals, Inc.",PID324,Client Project,2014-03-09,2014-08-24
+Reckitt Benckiser LLC,PID325,BAU Activity,2021-11-15,2022-05-28
+E-Z-EM Canada Inc,PID326,Sales Activity,2016-08-21,2017-02-28
+McKesson Contract Packaging,PID327,Client Project,2021-12-15,2022-07-01
+Pfizer Laboratories Div Pfizer Inc,PID328,Client Project,2020-10-22,2021-03-03
+McKesson,PID329,Sales Activity,2022-04-02,2022-10-06
+Ionx Holdings d/b/a HelloLife Inc.,PID330,Client Project,2020-08-25,2021-01-10
+Uriel Pharmacy Inc.,PID331,BAU Activity,2017-06-28,2017-10-17
+West-Ward Pharmaceutical Corp,PID332,Client Project,2016-08-06,2017-02-19
+Nomax Inc.,PID333,Sales Activity,2022-08-27,2023-03-04
+Guthy-Renker LLC,PID334,Client Project,2020-09-14,2021-03-22
+"Nova Homeopathic Therapeutics, Inc.",PID335,Client Project,2022-06-22,2023-01-06
+"Actelion Pharmaceuticals US, Inc.",PID336,Client Project,2014-03-09,2014-08-28
+"NATURE REPUBLIC CO., LTD.",PID337,Client Project,2013-12-13,2014-04-18
+Cardinal Health,PID338,Sales Activity,2013-09-16,2013-12-31
+"Antigen Laboratories, Inc.",PID339,Sales Activity,2023-10-24,2024-05-06
+Topco Associates LLC,PID340,Client Project,2018-05-07,2018-10-18
+"Hangzhou Facecare Cosmetics Co., Ltd.",PID341,Client Project,2023-07-02,2023-11-10
+HOMEOLAB USA INC.,PID342,Client Project,2017-04-25,2017-11-08
+Advance Hygienics LLC,PID343,Client Project,2019-09-19,2020-02-24
+Contract Pharmacy Services-PA,PID344,BAU Activity,2022-07-22,2022-12-03
+"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",PID345,Client Project,2018-09-06,2018-12-22
+"Alcon Laboratories, Inc.",PID346,Client Project,2017-11-15,2018-05-24
+H E B,PID347,Client Project,2023-08-23,2023-12-31
+Novo Nordisk,PID348,Client Project,2020-03-06,2020-09-23
+Delta Brands Inc,PID349,Client Project,2016-08-04,2017-02-10
+KMART CORPORATION,PID350,Client Project,2016-01-22,2016-06-10
+"PD-Rx Pharmaceuticals, Inc.",PID351,Client Project,2013-10-25,2014-04-02
+WALGREEN CO.,PID352,Client Project,2016-01-07,2016-06-11
+Virtus Pharmaceuticals,PID353,Client Project,2018-08-28,2019-01-11
+AMOREPACIFIC,PID354,Client Project,2021-07-27,2022-01-02
+United Exchange Corp,PID355,Sales Activity,2017-07-02,2018-01-22
+E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,PID356,Client Project,2023-06-04,2023-11-23
+Safeway,PID357,Client Project,2022-08-30,2023-03-17
+ORIGINS NATURAL RESOURCES INC.,PID358,Client Project,2018-12-09,2019-06-26
+"AvKARE, Inc.",PID359,Client Project,2021-12-10,2022-03-23
+REMEDYREPACK INC.,PID360,BAU Activity,2016-04-04,2016-07-15
+"Jiangsu Gold Worldworks Household Chemicals Co., Ltd.",PID361,Sales Activity,2019-07-21,2019-11-02
+"Newton Laboratories, Inc.",PID362,Client Project,2017-04-20,2017-10-08
+REMEDYREPACK INC.,PID363,Sales Activity,2013-10-12,2014-03-25
+Ventura Corporation LTD,PID364,Client Project,2013-05-24,2013-09-10
+Alexso Inc.,PID365,Client Project,2018-06-19,2018-10-31
+"H.J. Harkins Company, Inc.",PID366,Sales Activity,2015-08-31,2016-01-16
+Unit Dose Services,PID367,Client Project,2014-12-17,2015-05-22
+HyVee Inc,PID368,Sales Activity,2020-01-04,2020-07-12
+Parfums Christian Dior,PID369,Sales Activity,2022-12-06,2023-03-26
+Wockhardt USA LLC.,PID370,Sales Activity,2020-08-19,2021-03-02
+"X-GEN Pharmaceuticals, Inc.",PID371,Client Project,2018-07-13,2018-10-22
+"Preferred Pharmaceuticals, Inc.",PID372,Client Project,2013-05-15,2013-09-04
+ART COSMETICS SRL,PID373,BAU Activity,2022-03-20,2022-09-30
+QUALITY CHOICE (Chain Drug Marketing Association),PID374,Client Project,2017-01-12,2017-07-20
+Clinical Solutions Wholesale,PID375,Client Project,2015-08-24,2015-12-01
+"Avon Products, Inc",PID376,Client Project,2020-09-19,2020-12-30
+Rugby Laboratories,PID377,BAU Activity,2019-04-22,2019-08-31
+Laboratoires Boiron,PID378,Sales Activity,2023-02-18,2023-05-28
+"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",PID379,Client Project,2017-06-05,2017-09-15
+ZELENS Limited,PID380,BAU Activity,2021-06-22,2021-10-07
+STAT RX USA LLC,PID381,Client Project,2013-04-28,2013-11-08
+"Allergan, Inc.",PID382,Client Project,2016-04-25,2016-09-12
+American Health Packaging,PID383,Client Project,2014-01-09,2014-04-28
+REMEDYREPACK INC.,PID384,Client Project,2017-02-28,2017-09-05
+"Upsher-Smith Laboratories, Inc.",PID385,Client Project,2019-02-05,2019-06-14
+"H.J. Harkins Company, Inc.",PID386,Sales Activity,2019-06-12,2019-10-20
+Kroger Company,PID387,Sales Activity,2022-02-17,2022-06-30
+"Glenmark Generics Inc., USA",PID388,BAU Activity,2015-07-02,2015-10-12
+Zydus Pharmaceuticals (USA) Inc.,PID389,Client Project,2015-01-31,2015-06-16
+Sandoz Inc,PID390,Client Project,2020-03-17,2020-07-03
+Kroger Company,PID391,Client Project,2022-08-19,2022-12-26
+Mylan Institutional LLC,PID392,Client Project,2019-10-16,2020-01-31
+WAL-MART STORES INC.,PID393,Client Project,2016-09-15,2017-03-19
+ReadyMeds,PID394,Client Project,2018-12-26,2019-04-09
+Sunovion Pharmaceuticals Inc.,PID395,Sales Activity,2020-10-29,2021-04-15
+Mylan Pharmaceuticals Inc.,PID396,Sales Activity,2014-04-06,2014-07-13
+Cardinal Health,PID397,Client Project,2017-07-22,2018-01-03
+"H.J. Harkins Company, Inc.",PID398,Client Project,2017-06-13,2017-12-17
+Ventura Corporation LTD,PID399,Sales Activity,2022-09-16,2022-12-29
+Sandoz Inc,PID400,Sales Activity,2022-07-10,2022-11-16
+"Northwind Pharmaceuticals, LLC",PID401,Client Project,2013-06-20,2013-12-07
+Bristol-Myers Squibb Pharma Company,PID402,Sales Activity,2014-05-12,2014-10-29
+"Actelion Pharmaceuticals US, Inc.",PID403,Client Project,2014-12-12,2015-06-21
+American Health Packaging,PID404,Sales Activity,2024-03-08,2024-07-24
+MEIJER DISTRIBUTION INC,PID405,Client Project,2022-02-25,2022-08-31
+"Newton Laboratories, Inc.",PID406,Client Project,2015-10-29,2016-02-06
+REMEDYREPACK INC.,PID407,Client Project,2013-07-15,2013-12-28
+Chain Drug Marketing Association,PID408,Client Project,2019-09-18,2020-03-24
+"Buckeye International, Inc.",PID409,Client Project,2023-03-28,2023-09-03
+HandsFree,PID410,BAU Activity,2020-09-28,2021-03-19
+"International Labs, Inc.",PID411,BAU Activity,2023-02-22,2023-08-07
+USPharmaCo,PID412,Sales Activity,2017-08-21,2018-01-30
+American Health Packaging,PID413,Client Project,2014-06-27,2014-12-04
+American Health Packaging,PID414,Client Project,2017-01-22,2017-05-26
+"Alcon Laboratories, Inc.",PID415,Sales Activity,2020-11-06,2021-05-22
+Bryant Ranch Prepack,PID416,Client Project,2023-01-07,2023-05-14
+Walgreen Company,PID417,Client Project,2022-12-19,2023-07-06
+Strides Arcolab Limited,PID418,Client Project,2018-02-02,2018-06-10
+Qualitest Pharmaceuticals,PID419,Sales Activity,2022-08-05,2023-02-21
+AstraZeneca Pharmaceuticals LP,PID420,BAU Activity,2017-02-13,2017-08-20
+Cardinal Health,PID421,Client Project,2022-11-05,2023-05-13
+Jubilant HollisterStier LLC,PID422,Client Project,2020-04-16,2020-08-27
+"Nelco Laboratories, Inc.",PID423,Client Project,2013-08-19,2013-11-24
+Carilion Materials Management,PID424,Client Project,2019-02-17,2019-08-21
+"Physicians Total Care, Inc.",PID425,Client Project,2022-04-01,2022-10-06
+Aurobindo Pharma Limited,PID426,Sales Activity,2017-08-10,2017-11-26
+Procter & Gamble Manufacturing Company,PID427,Client Project,2014-05-21,2014-09-30
+"Nelco Laboratories, Inc.",PID428,Client Project,2015-11-16,2016-03-30
+"Scott Holdings Co., Ltd.",PID429,Client Project,2022-03-09,2022-09-21
+"Northwind Pharmaceuticals, LLC",PID430,Client Project,2021-03-02,2021-07-17
+"Preferred Pharmaceuticals, Inc.",PID431,Sales Activity,2014-10-07,2015-01-16
+Bryant Ranch Prepack,PID432,Client Project,2016-03-03,2016-09-08
+Neutrogena Corporation,PID433,BAU Activity,2013-11-24,2014-05-14
+Roerig,PID434,Client Project,2017-10-01,2018-02-20
+STAT RX USA LLC,PID435,Sales Activity,2014-10-08,2015-02-26
+Legacy Pharmaceutical Packaging,PID436,Client Project,2014-11-25,2015-05-14
+"Liddell Laboratories, Inc.",PID437,Client Project,2017-08-11,2017-11-20
+L'Oreal USA Products Inc,PID438,Sales Activity,2019-01-17,2019-05-06
+ENERGIZER PERSONAL CARE LLC,PID439,BAU Activity,2023-04-17,2023-08-24
+Rebel Distributors Corp.,PID440,Client Project,2015-07-31,2016-01-05
+"Western Family Foods, Inc.",PID441,Sales Activity,2013-01-15,2013-07-30
+"C.B. Fleet Company, Inc.",PID442,Sales Activity,2016-09-01,2017-02-14
+BTG International Inc.,PID443,Sales Activity,2020-12-09,2021-03-26
+Rebel Distributors Corp,PID444,Sales Activity,2013-08-17,2013-11-21
+QuestVapco Corporation,PID445,BAU Activity,2015-03-09,2015-09-26
+Bryant Ranch Prepack,PID446,Sales Activity,2020-08-13,2020-12-29
+"Nelco Laboratories, Inc.",PID447,Client Project,2017-08-13,2018-01-27
+AvPAK,PID448,Client Project,2015-10-21,2016-04-02
+Sandoz Inc,PID449,BAU Activity,2022-09-15,2023-03-29
+Legacy Pharmaceutical Packaging,PID450,Client Project,2022-09-03,2023-01-16
+Target Corporation,PID451,Sales Activity,2016-02-19,2016-06-01
+Major Pharmaceuticals,PID452,Client Project,2016-05-08,2016-11-12
+Wal-Mart Stores Inc,PID453,Client Project,2017-09-24,2018-02-05
+"Neopharm Co., Ltd.",PID454,Client Project,2013-08-05,2014-02-09
+Mylan Institutional LLC,PID455,Client Project,2014-10-30,2015-02-15
+Apothecary Shop Wholesale Inc.,PID456,BAU Activity,2015-02-06,2015-06-19
+"Antigen Laboratories, Inc.",PID457,Client Project,2017-02-05,2017-05-20
+REMEDYREPACK INC.,PID458,Client Project,2021-12-21,2022-06-04
+Plymouth Pharmaceuticals Inc,PID459,Client Project,2013-12-15,2014-03-24
+The Procter & Gamble Manufacturing Company,PID460,Client Project,2019-07-11,2019-12-31
+Sun Products Corporation,PID461,Client Project,2021-05-02,2021-08-16
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID462,Client Project,2024-03-23,2024-08-05
+Apotex Corporation,PID463,Sales Activity,2014-05-30,2014-09-18
+"Lupin Pharmaceuticals, Inc.",PID464,Client Project,2013-12-13,2014-05-20
+Target Corporation,PID465,Client Project,2020-02-07,2020-07-21
+Mylan Pharmaceuticals Inc.,PID466,BAU Activity,2019-06-03,2019-11-10
+ESTEE LAUDER INC,PID467,Client Project,2022-04-01,2022-08-07
+"Nationwide Laboratories, LLC",PID468,Client Project,2017-09-09,2017-12-29
+"BioActive Nutritional, Inc.",PID469,Sales Activity,2023-11-06,2024-04-13
+"Shopko Stores Operating Co., LLC",PID470,Sales Activity,2013-02-02,2013-08-11
+WOCKHARDT LIMITED,PID471,Client Project,2019-11-19,2020-04-25
+"Mylan Pharmaceuticals, Inc.",PID472,Sales Activity,2015-12-16,2016-04-28
+American Health Packaging,PID473,Client Project,2014-02-16,2014-06-03
+"Caraco Pharmaceutical Laboratories, Ltd.",PID474,Client Project,2014-04-08,2014-07-18
+Avema Pharma Solutions,PID475,Sales Activity,2016-04-10,2016-08-21
+McKesson Contract Packaging,PID476,Sales Activity,2015-05-31,2015-10-04
+"Dolgencorp, LLC",PID477,Client Project,2016-02-03,2016-07-10
+REMEDYREPACK INC.,PID478,Client Project,2022-06-05,2022-09-20
+"NCS HealthCare of KY, Inc dba Vangard Labs",PID479,Client Project,2019-05-09,2019-11-23
+Homeocare Laboratories,PID480,Client Project,2014-05-07,2014-08-14
+Premium Formulations LLC,PID481,Client Project,2016-05-25,2016-09-01
+"Harris Pharmaceutical, Inc.",PID482,Client Project,2013-03-25,2013-07-31
+"Zhejiang Huahai Pharmaceutical Co., Ltd.",PID483,Client Project,2023-10-24,2024-01-28
+Uriel Pharmacy Inc.,PID484,Sales Activity,2020-04-18,2020-11-02
+REMEDYREPACK INC.,PID485,Client Project,2015-04-27,2015-08-13
+"Nelco Laboratories, Inc.",PID486,Client Project,2023-05-16,2023-11-23
+"Nelco Laboratories, Inc.",PID487,Client Project,2021-01-23,2021-08-02
+"SHISEIDO CO., LTD.",PID488,Sales Activity,2020-09-30,2021-01-16
+"Weeks & Leo Co., Inc.",PID489,Sales Activity,2018-09-15,2019-01-21
+"SIGMAPHARM LABORATORIES, LLC",PID490,Sales Activity,2016-03-23,2016-10-12
+"Nelco Laboratories, Inc.",PID491,BAU Activity,2013-04-08,2013-07-25
+REMEDYREPACK INC.,PID492,Client Project,2018-03-15,2018-07-28
+Wal-Mart Stores Inc,PID493,BAU Activity,2022-02-22,2022-05-26
+Actavis Elizabeth LLC,PID494,Sales Activity,2019-10-03,2020-02-16
+"Prime Packaging, Inc.",PID495,Client Project,2017-03-28,2017-08-08
+Eminence Organic Skin Care,PID496,Sales Activity,2016-01-06,2016-06-25
+"Vitality Works, Inc.",PID497,Client Project,2014-07-26,2014-11-09
+Rebel Distributors Corp,PID498,Sales Activity,2013-09-04,2014-02-14
+TEVA Pharmaceuticals USA Inc,PID499,Sales Activity,2020-10-04,2021-03-21
+"ALK-Abello, Inc.",PID500,Client Project,2013-11-07,2014-03-26
+"Arbonne International, LLC",PID501,Client Project,2020-12-23,2021-07-13
+"Physicians Total Care, Inc.",PID502,Client Project,2013-11-09,2014-05-16
+"Newton Laboratories, Inc.",PID503,Sales Activity,2014-04-03,2014-07-07
+"Physicians Total Care, Inc.",PID504,Client Project,2014-07-28,2015-01-11
+"Nelco Laboratories, Inc.",PID505,Client Project,2016-06-23,2016-12-12
+Merck Sharp & Dohme Corp.,PID506,Client Project,2014-03-06,2014-07-18
+Jubilant HollisterStier LLC,PID507,Sales Activity,2013-09-08,2014-01-12
+"Antigen Laboratories, Inc.",PID508,Sales Activity,2013-09-11,2014-02-28
+"Conney Safety Products, LLC",PID509,Client Project,2015-06-09,2015-09-24
+"Preferred Pharmaceuticals, Inc.",PID510,Sales Activity,2023-09-22,2024-03-04
+"Auto-Chlor System, LLC",PID511,Client Project,2020-04-04,2020-10-19
+Lake Erie Medical DBA Quality Care Products LLC,PID512,Client Project,2018-02-10,2018-06-28
+"A&Z Pharmaceutical, Inc.",PID513,Client Project,2018-12-27,2019-04-01
+"Physicians Total Care, Inc.",PID514,BAU Activity,2016-10-23,2017-02-11
+Bryant Ranch Prepack,PID515,Client Project,2013-10-11,2014-02-20
+Zydus Pharmaceuticals (USA) Inc.,PID516,Client Project,2019-02-07,2019-08-25
+Ranbaxy Pharmaceuticals Inc.,PID517,Client Project,2013-06-13,2013-10-28
+DENTOVATIONS INC,PID518,Client Project,2019-07-18,2020-02-01
+"Mallinckrodt, Inc",PID519,BAU Activity,2020-07-23,2020-11-11
+SOMBRA COSMETICS INC.,PID520,Sales Activity,2014-11-24,2015-06-02
+"Marathon Pharmaceuticals, LLC",PID521,Client Project,2018-04-15,2018-08-02
+A-S Medication Solutions LLC,PID522,Client Project,2014-03-02,2014-09-18
+Heritage Pharmaceuticals Inc.,PID523,Client Project,2015-02-23,2015-08-27
+AHAVA Dead Sea Laboratories Ltd,PID524,Client Project,2017-07-27,2018-01-13
+CHAIN DRUG MARKETING ASSOCIATION INC,PID525,BAU Activity,2015-01-27,2015-06-11
+"Target Corp.,",PID526,Sales Activity,2014-03-08,2014-09-22
+Unit Dose Services,PID527,BAU Activity,2016-12-15,2017-04-30
+"Antigen Laboratories, Inc.",PID528,Sales Activity,2022-04-30,2022-10-05
+"NCS HealthCare of KY, Inc dba Vangard Labs",PID529,Client Project,2016-06-07,2016-11-14
+REMEDYREPACK INC.,PID530,Client Project,2013-07-28,2014-02-05
+"Deseret Biologicals, Inc.",PID531,Client Project,2013-01-06,2013-07-11
+REMEDYREPACK INC.,PID532,Sales Activity,2013-02-09,2013-08-21
+"Genentech, Inc.",PID533,BAU Activity,2016-10-19,2017-03-30
+"Lannett Company, Inc.",PID534,Client Project,2022-01-29,2022-08-12
+McKesson,PID535,Client Project,2019-12-11,2020-05-23
+Natural Health Supply,PID536,Client Project,2018-04-02,2018-08-21
+Pharmaceutics Corporation,PID537,Client Project,2019-07-26,2020-02-04
+"Antigen Laboratories, Inc.",PID538,Sales Activity,2014-07-17,2014-11-26
+HyVee Inc,PID539,Sales Activity,2021-06-09,2021-12-23
+SCA Tissue North America,PID540,Client Project,2020-08-06,2020-12-11
+sanofi-aventis U.S. LLC,PID541,BAU Activity,2023-02-20,2023-08-29
+"Nelco Laboratories, Inc.",PID542,BAU Activity,2023-08-04,2023-12-13
+"APP Pharmaceuticals, LLC",PID543,Client Project,2021-05-17,2021-12-02
+"AvKARE, Inc.",PID544,Sales Activity,2014-04-15,2014-09-23
+Meijer Distribution Inc,PID545,Client Project,2018-11-15,2019-05-20
+"Teva Parenteral Medicines, Inc",PID546,Sales Activity,2015-03-05,2015-06-17
+The Mentholatum Company,PID547,BAU Activity,2014-06-17,2014-10-31
+"Humco Holding Group, Inc",PID548,Sales Activity,2023-11-18,2024-03-05
+"Shopko Stores Operating Co., LLC",PID549,Client Project,2023-05-16,2023-10-21
+"Paddock Laboratories, LLC",PID550,Client Project,2021-10-14,2022-03-01
+Apotheca Company,PID551,Client Project,2016-11-27,2017-04-01
+KIK Custom Products,PID552,BAU Activity,2016-03-13,2016-06-20
+Wockhardt USA LLC.,PID553,Client Project,2016-03-02,2016-06-18
+"Aloe Care International, LLC",PID554,Client Project,2017-08-01,2018-02-10
+"La Prairie, Inc.",PID555,Sales Activity,2023-07-04,2023-11-19
+Valu Merchandisers Company,PID556,Client Project,2013-12-02,2014-04-20
+REMEDYREPACK INC.,PID557,Sales Activity,2019-02-24,2019-06-11
+Demoulas Super Markets,PID558,Client Project,2014-01-21,2014-04-30
+King Bio Inc.,PID559,BAU Activity,2013-01-13,2013-07-30
+"Preferred Pharmaceuticals, Inc",PID560,BAU Activity,2016-04-09,2016-07-25
+"United Research Laboratories, Inc.",PID561,Client Project,2018-08-18,2019-02-02
+"SKINFOOD CO., LTD.",PID562,BAU Activity,2016-04-06,2016-10-10
+Wal-Mart Stores Inc,PID563,Client Project,2013-12-29,2014-06-02
+"Dispensing Solutions, Inc.",PID564,BAU Activity,2016-03-21,2016-09-25
+"Glenmark Generics Inc., USA",PID565,Sales Activity,2019-06-06,2019-10-15
+"Triax Pharmaceuticals, LLC",PID566,BAU Activity,2017-01-29,2017-05-13
+Parfums Christian Dior,PID567,Sales Activity,2018-12-26,2019-04-12
+Proficient Rx LP,PID568,Sales Activity,2020-07-15,2020-12-20
+"Nelco Laboratories, Inc.",PID569,BAU Activity,2015-01-11,2015-06-29
+"Advanced Beauty Systems, Inc.",PID570,Sales Activity,2018-09-12,2019-02-28
+"WG Critical Care, LLC",PID571,Sales Activity,2020-03-30,2020-09-09
+Zydus Pharmaceuticals (USA) Inc.,PID572,Sales Activity,2019-03-07,2019-09-26
+"Nelco Laboratories, Inc.",PID573,Client Project,2019-10-26,2020-05-02
+Safeway,PID574,Sales Activity,2013-12-01,2014-04-07
+"PD-Rx Pharmaceuticals, Inc.",PID575,Client Project,2016-11-02,2017-03-19
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID576,Sales Activity,2017-07-25,2018-01-10
+"Physicians Total Care, Inc.",PID577,BAU Activity,2015-01-17,2015-07-22
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID578,Client Project,2018-07-13,2019-01-02
+"Nelco Laboratories, Inc.",PID579,BAU Activity,2015-05-26,2015-09-11
+Bryant Ranch Prepack,PID580,Client Project,2018-12-01,2019-05-21
+Natural Health Supply,PID581,Sales Activity,2021-11-29,2022-06-16
+Kay's Designs International Limited,PID582,Client Project,2018-09-03,2019-01-22
+"Nelco Laboratories, Inc.",PID583,Client Project,2016-05-22,2016-09-01
+Laboratoire Aguettant,PID584,Sales Activity,2022-09-26,2022-12-31
+Rebel Distributors Corp.,PID585,Sales Activity,2023-07-11,2023-11-27
+Target Corporation,PID586,Sales Activity,2014-06-10,2014-09-26
+"SJ Creations, Inc.",PID587,Client Project,2016-02-24,2016-07-09
+Western Family Foods Inc,PID588,Client Project,2016-04-25,2016-07-30
+"Aidance Skincare & Topical Solutions, LLC",PID589,Client Project,2022-10-22,2023-04-28
+Sandoz Inc,PID590,Client Project,2019-09-29,2020-03-20
+A-S Medication Solutions LLC,PID591,Sales Activity,2019-05-10,2019-08-16
+REMEDYREPACK INC.,PID592,Sales Activity,2021-09-07,2022-03-16
+"Teva Parenteral Medicines, Inc.",PID593,Client Project,2017-07-04,2017-11-22
+CVS Pharmacy,PID594,BAU Activity,2022-04-12,2022-08-01
+"Bayer HealthCare LLC, Consumer Care",PID595,Sales Activity,2017-04-05,2017-08-14
+Rebel Distributors Corp,PID596,Client Project,2017-04-11,2017-07-30
+AvPAK,PID597,Sales Activity,2016-11-18,2017-05-31
+AbbVie Inc.,PID598,Client Project,2017-05-04,2017-09-09
+SOMBRA COSMETICS INC.,PID599,Client Project,2019-04-26,2019-08-31
+McKesson,PID600,BAU Activity,2019-10-03,2020-02-10
+"Humo Holding Group, inc.",PID601,Sales Activity,2015-12-26,2016-06-30
+"Physicians Care Alliance, LLC DBA PCA SKIN",PID602,Client Project,2017-04-22,2017-08-09
+Air Liquide Industrial U.S. LP,PID603,Sales Activity,2017-03-06,2017-09-11
+Mylan Institutional Inc.,PID604,Client Project,2019-08-28,2020-01-04
+Home Sweet Homeopathics,PID605,Client Project,2014-08-06,2015-01-26
+Proficient Rx LP,PID606,Client Project,2021-01-29,2021-08-09
+Topco Associates LLC,PID607,Client Project,2016-05-05,2016-09-23
+Unit Dose Services,PID608,Client Project,2021-08-23,2022-03-01
+"Cubist Pharmaceuticals, Inc.",PID609,Client Project,2024-03-13,2024-08-19
+"Preferred Pharmaceuticals, Inc",PID610,Sales Activity,2013-03-23,2013-09-11
+"Hospira, Inc.",PID611,Client Project,2019-10-10,2020-04-28
+ESTEE LAUDER INC,PID612,Client Project,2016-08-10,2017-01-20
+CARDINAL HEALTH,PID613,Sales Activity,2014-02-02,2014-07-12
+Citron Pharma LLC,PID614,Sales Activity,2015-10-10,2016-03-25
+B. Braun Medical Inc.,PID615,Client Project,2019-02-18,2019-07-25
+Family Dollar,PID616,Client Project,2022-02-23,2022-07-11
+"ALK-Abello, Inc.",PID617,Sales Activity,2017-12-14,2018-03-26
+Family Dollar,PID618,Client Project,2017-08-29,2017-12-14
+"Nelco Laboratories, Inc.",PID619,Sales Activity,2016-11-13,2017-05-17
+"Nelco Laboratories, Inc.",PID620,Sales Activity,2018-08-13,2019-01-01
+A-S Medication Solutions LLC,PID621,Sales Activity,2016-03-16,2016-09-22
+"Physicians Total Care, Inc.",PID622,Client Project,2017-02-23,2017-07-29
+"Mallinckrodt, Inc.",PID623,Client Project,2013-02-10,2013-07-19
+"ALK-Abello, Inc.",PID624,Client Project,2023-02-06,2023-08-20
+Natural Health Supply,PID625,Sales Activity,2022-03-29,2022-10-04
+"Preferred Pharmaceuticals, Inc",PID626,Client Project,2017-06-28,2017-11-13
+"Nelco Laboratories, Inc.",PID627,Client Project,2016-04-17,2016-08-29
+"Certus Medical, Inc.",PID628,BAU Activity,2013-11-23,2014-04-11
+"ALK-Abello, Inc.",PID629,Client Project,2021-09-04,2022-03-14
+"Dispensing Solutions, Inc.",PID630,Client Project,2013-08-01,2014-02-16
+"Nelco Laboratories, Inc.",PID631,Client Project,2021-07-27,2022-02-08
+Cardinal Health,PID632,Sales Activity,2023-10-09,2024-04-15
+"Nelco Laboratories, Inc.",PID633,BAU Activity,2019-10-07,2020-01-21
+B. Braun Medical Inc.,PID634,Client Project,2021-08-12,2021-12-25
+"Command Brands, LLC",PID635,Client Project,2020-01-16,2020-06-27
+"Allergan, Inc.",PID636,Client Project,2016-02-26,2016-09-12
+"PD-Rx Pharmaceuticals, Inc.",PID637,Client Project,2015-09-27,2016-03-14
+Save-A-Lot Food Stores Ltd,PID638,Sales Activity,2014-07-18,2015-01-04
+Torrent Pharmaceuticals Limited,PID639,BAU Activity,2018-02-19,2018-07-03
+"Nelco Laboratories, Inc.",PID640,Client Project,2015-11-25,2016-04-30
+"Hawaii Home Infusion Associates, Ltd.",PID641,Sales Activity,2023-10-24,2024-03-08
+"Dispensing Solutions, Inc.",PID642,Sales Activity,2020-12-15,2021-03-29
+American Sales Company,PID643,Client Project,2016-06-12,2016-09-30
+VVF Illinois Services LLC,PID644,Client Project,2015-10-20,2016-04-08
+Mondel?z Global LLC,PID645,BAU Activity,2018-07-13,2019-01-21
+Sam's West Inc,PID646,Client Project,2014-12-27,2015-07-09
+7-11,PID647,Client Project,2020-12-18,2021-04-02
+"Novartis Consumer Health, Inc.",PID648,Client Project,2018-08-24,2019-01-02
+Pure Source Inc.,PID649,Client Project,2022-09-27,2023-01-09
+Alembic Pharmaceuticals Limited,PID650,Sales Activity,2020-11-23,2021-03-28
+"Physicians Total Care, Inc.",PID651,Client Project,2018-03-01,2018-09-16
+ESTEE LAUDER INC,PID652,Client Project,2019-09-16,2019-12-24
+Parke-Davis Div of Pfizer Inc,PID653,Client Project,2019-02-09,2019-05-15
+Lake Erie Medical DBA Quality Care Products LLC,PID654,Client Project,2014-10-26,2015-05-01
+"Church & Dwight Co., Inc.",PID655,Client Project,2016-03-09,2016-07-16
+"GOWOONSESANG COSMETICS CO., LTD.",PID656,Client Project,2022-10-05,2023-02-10
+REMEDYREPACK INC.,PID657,Client Project,2023-11-06,2024-02-22
+"Taro Pharmaceuticals U.S.A., Inc.",PID658,Client Project,2013-09-11,2014-03-23
+"The Pepsom Group, Inc.",PID659,Client Project,2014-09-10,2015-01-26
+Rubbermaid Commercial Products LLC,PID660,Client Project,2017-11-22,2018-04-27
+Zydus Pharmaceuticals (USA) Inc.,PID661,Client Project,2016-04-09,2016-07-13
+BioActive Nutritional,PID662,Client Project,2013-12-14,2014-05-30
+Unifirst First Aid Corporation,PID663,Client Project,2023-04-28,2023-11-07
+REMEDYREPACK INC.,PID664,Client Project,2021-03-27,2021-08-02
+ViiV Healthcare Company,PID665,Sales Activity,2016-11-07,2017-05-19
+"Global Pharmaceuticals, Division of Impax Laboratories Inc.",PID666,Client Project,2023-12-26,2024-04-15
+"Pliva, Inc",PID667,Client Project,2020-06-16,2020-11-25
+"Pack Pharmaceuticals, LLC",PID668,BAU Activity,2015-12-23,2016-03-27
+Uriel Pharmacy Inc,PID669,Client Project,2022-01-16,2022-05-03
+Apotex Corp,PID670,Client Project,2014-02-06,2014-05-20
+PRASCO Laboratories,PID671,Client Project,2015-09-21,2016-03-01
+"Inel Cosmetics Co., Ltd.",PID672,BAU Activity,2021-11-11,2022-05-28
+"Evonik Stockhausen, LLC",PID673,Sales Activity,2015-12-27,2016-04-14
+"Energique, Inc.",PID674,Client Project,2022-05-17,2022-10-25
+"Ajou Medics Co., Ltd",PID675,Client Project,2018-07-15,2019-01-31
+Apotheca Company,PID676,Sales Activity,2014-01-19,2014-07-31
+Cardinal Health,PID677,Sales Activity,2021-09-07,2022-03-14
+Mylan Pharmaceuticals Inc.,PID678,Sales Activity,2018-06-09,2018-10-27
+"NATURE REPUBLIC CO., LTD.",PID679,Client Project,2015-02-08,2015-07-18
+Eisai Inc.,PID680,Client Project,2016-08-03,2016-12-08
+Parke-Davis Div of Pfizer Inc,PID681,Sales Activity,2024-02-02,2024-08-17
+Physicians Formula Inc,PID682,Client Project,2017-05-10,2017-11-26
+"Nelco Laboratories, Inc.",PID683,BAU Activity,2018-05-01,2018-09-05
+ALILY (ZHANGZHOU) BATH PRODUCTS LTD.,PID684,Sales Activity,2023-09-28,2024-03-14
+"Nelco Laboratories, Inc.",PID685,Client Project,2022-03-14,2022-09-19
+Jubilant HollisterStier LLC,PID686,Client Project,2015-10-22,2016-04-29
+"Ann Arbor Welding Supply Co., Inc. DBA Arbor Specialty Gases",PID687,Client Project,2016-08-28,2017-01-06
+L. Perrigo Company,PID688,Client Project,2016-06-25,2016-12-10
+CVS Pharmacy,PID689,Sales Activity,2015-07-17,2015-10-23
+"Energique, Inc.",PID690,Client Project,2021-10-12,2022-04-01
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID691,Client Project,2015-12-12,2016-04-01
+"Upsher-Smith Laboratories, Inc.",PID692,Client Project,2014-12-02,2015-03-16
+"Novartis Consumer Health, Inc.",PID693,Client Project,2022-07-25,2022-11-13
+Endo Pharmaceuticals Inc. DBA Endo Generic Products,PID694,Client Project,2013-08-10,2014-01-27
+"Nelco Laboratories, Inc.",PID695,Sales Activity,2022-03-14,2022-07-28
+sanofi-aventis U.S. LLC,PID696,Client Project,2022-04-06,2022-08-19
+Dr. Reddy's Laboratories Limited,PID697,BAU Activity,2017-12-30,2018-07-05
+Heritage Pharmaceuticals Inc.,PID698,Client Project,2023-01-10,2023-06-22
+Mylan Pharmaceuticals Inc.,PID699,Client Project,2019-02-15,2019-07-29
+"International Labs, Inc.",PID700,Client Project,2020-12-27,2021-06-07
+Sandoz Inc,PID701,Client Project,2022-03-22,2022-07-29
+"Medline Industries, Inc.",PID702,Sales Activity,2021-02-07,2021-07-27
+St Marys Medical Park Pharmacy,PID703,BAU Activity,2016-12-26,2017-07-11
+"Nelco Laboratories, Inc.",PID704,Sales Activity,2020-02-25,2020-07-13
+"Deseret Biologicals, Inc.",PID705,Client Project,2019-01-24,2019-06-28
+"RUGBY LABORATORIES, INC.",PID706,Client Project,2020-01-05,2020-04-12
+Home Sweet Homeopathics,PID707,Client Project,2016-07-06,2016-12-21
+Welding & Therapy Service Inc.,PID708,Sales Activity,2022-05-17,2022-10-21
+Uriel Pharmacy Inc.,PID709,Client Project,2016-08-14,2017-02-19
+Mission Pharmacal Company,PID710,BAU Activity,2022-10-25,2023-04-06
+Darby Dental Supply Co Inc,PID711,Client Project,2017-03-21,2017-09-25
+"Tarte, Inc",PID712,Client Project,2021-01-03,2021-07-15
+Cardinal Health,PID713,Client Project,2022-12-03,2023-05-10
+Octapharma AB,PID714,Client Project,2014-10-01,2015-01-12
+Momar Incorporated,PID715,Sales Activity,2017-09-09,2017-12-21
+McKesson Contract Packaging,PID716,Client Project,2014-12-11,2015-04-24
+"Chattem, Inc.",PID717,Client Project,2013-03-17,2013-07-31
+"Nelco Laboratories, Inc.",PID718,BAU Activity,2020-04-26,2020-11-03
+Pfizer Consumer Healthcare,PID719,Sales Activity,2019-01-22,2019-05-10
+Rebel Distributors Corp,PID720,BAU Activity,2021-11-12,2022-03-21
+"Nan Mei Pharmaceutical Co., Ltd.",PID721,Sales Activity,2016-02-11,2016-07-21
+"Nelco Laboratories, Inc.",PID722,Client Project,2023-09-07,2024-01-12
+"Novartis Consumer Health, Inc.",PID723,Client Project,2017-04-23,2017-09-10
+"Asclemed USA, Inc.",PID724,Client Project,2014-03-07,2014-09-25
+REMEDYREPACK INC.,PID725,Sales Activity,2018-03-06,2018-07-16
+"Preferred Pharmaceuticals, Inc.",PID726,Client Project,2017-01-30,2017-06-16
+H E B,PID727,Sales Activity,2023-09-23,2024-04-10
+"Preferred Pharmaceuticals, Inc.",PID728,Client Project,2017-07-29,2018-02-09
+"Antigen Laboratories, Inc.",PID729,Sales Activity,2017-12-05,2018-04-12
+"Shanghai Yinjing Medical Supplies Co., Ltd.",PID730,Sales Activity,2018-05-10,2018-08-29
+A-S Medication Solutions LLC,PID731,Client Project,2018-10-28,2019-02-03
+Select Brand Distributors,PID732,Client Project,2018-04-20,2018-07-26
+Cardinal Health,PID733,Client Project,2020-12-12,2021-06-29
+H2O Plus,PID734,Client Project,2016-09-27,2017-03-15
+Integria Healthcare (US) Inc,PID735,BAU Activity,2013-08-08,2013-11-12
+"Allergy Laboratories, Inc.",PID736,Client Project,2021-06-20,2021-12-01
+WOCKHARDT LIMITED,PID737,Sales Activity,2015-10-22,2016-04-03
+Unifirst First Aid Corporation,PID738,Sales Activity,2016-03-06,2016-08-18
+"DOLGENCORP, LLC",PID739,Client Project,2019-07-29,2020-02-06
+Dolgencorp LLC,PID740,Sales Activity,2018-10-10,2019-01-15
+"JUBILANT CADISTA PHARMACEUTICALS, INC.",PID741,Client Project,2015-05-13,2015-10-19
+REMEDYREPACK INC.,PID742,Client Project,2014-06-08,2014-10-20
+"PD-Rx Pharmaceuticals, Inc.",PID743,Sales Activity,2020-05-17,2020-10-24
+"PruGen, Inc Pharmaceuticals",PID744,Client Project,2023-08-15,2023-11-19
+Dynarex Corporation,PID745,Client Project,2013-05-14,2013-12-01
+Heritage Pharmaceuticals Inc.,PID746,Client Project,2020-04-12,2020-09-19
+Rite Aid,PID747,Client Project,2015-11-03,2016-05-15
+Jubilant HollisterStier LLC,PID748,Client Project,2016-02-03,2016-07-12
+"Roxane Laboratories, Inc",PID749,Sales Activity,2013-03-27,2013-09-14
+The Mentholatum Company,PID750,BAU Activity,2017-12-04,2018-04-13
+Meijer Distribution Inc,PID751,Client Project,2023-05-26,2023-12-04
+McKesson Medical-Surgical Inc.,PID752,Sales Activity,2015-03-24,2015-07-13
+"Nelco Laboratories, Inc.",PID753,Client Project,2018-05-06,2018-11-19
+Neutrogena Corporation,PID754,Client Project,2022-12-21,2023-04-04
+"Roxane Laboratories, Inc.",PID755,Client Project,2023-01-18,2023-05-30
+"AAA Pharmaceutical, Inc.",PID756,Client Project,2016-03-05,2016-07-16
+REMEDYREPACK INC.,PID757,Client Project,2015-05-08,2015-10-19
+GlaxoSmithKline LLC,PID758,Sales Activity,2021-11-04,2022-03-08
+"Insys Therapeutics, Inc.",PID759,Client Project,2022-02-15,2022-06-25
+McKesson,PID760,Client Project,2014-02-07,2014-08-21
+"Forest Laboratories, Inc.",PID761,Sales Activity,2022-02-23,2022-08-30
+"Elizabeth Arden, Inc",PID762,Client Project,2019-12-25,2020-07-10
+"Matrixx Initiatives, Inc.",PID763,Sales Activity,2022-02-16,2022-08-26
+Ulta,PID764,Client Project,2016-02-02,2016-07-19
+"Preferred Pharmaceuticals, Inc.",PID765,Client Project,2023-03-28,2023-08-13
+Aidarex Pharmaceuticals LLC,PID766,Sales Activity,2013-12-05,2014-04-15
+Contract Pharmacy Services-PA,PID767,Sales Activity,2022-08-25,2023-03-03
+"Nexgen Pharma, Inc.",PID768,Client Project,2015-04-25,2015-11-09
+"Silvergate Pharmaceuticals, Inc.",PID769,BAU Activity,2014-08-27,2014-12-03
+REMEDYREPACK INC.,PID770,Client Project,2015-01-03,2015-04-23
+Major Pharmaceuticals,PID771,BAU Activity,2016-12-04,2017-03-09
+Bare Escentuals Beauty Inc.,PID772,Client Project,2018-06-12,2018-10-28
+Conopco Inc. d/b/a Unilever,PID773,Client Project,2022-01-06,2022-06-23
+Atlantic Biologicals Corps,PID774,Client Project,2020-04-20,2020-07-24
+"Newton Laboratories, Inc.",PID775,BAU Activity,2022-02-08,2022-06-25
+"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",PID776,Client Project,2023-07-28,2023-12-14
+"Ventura Corporation (San Juan, P.R)",PID777,Client Project,2013-05-27,2013-10-13
+"Donovan Industries, Inc.",PID778,Client Project,2021-08-01,2022-01-16
+Bonne Bell LLC,PID779,Client Project,2020-08-17,2020-12-01
+STAT Rx USA LLC,PID780,Sales Activity,2019-07-09,2019-11-20
+Guerbet LLC,PID781,Client Project,2024-02-10,2024-05-17
+Rebel Distributors Corp,PID782,Client Project,2013-08-06,2013-12-12
+Fluoritab Corporation,PID783,Sales Activity,2014-06-24,2014-12-07
+"CVS Pharmacy, Inc",PID784,Client Project,2019-04-17,2019-08-24
+Guthy-Renker LLC,PID785,BAU Activity,2017-05-21,2017-09-03
+H E B,PID786,Client Project,2023-03-09,2023-06-23
+Rebel Distributors Corp,PID787,Client Project,2013-04-28,2013-09-12
+"NSE Products, Inc.",PID788,Sales Activity,2021-10-30,2022-02-12
+"McNeil Consumer Healthcare Div. McNeil-PPC, Inc",PID789,Client Project,2023-12-23,2024-06-01
+"Oxarc, Inc.",PID790,Client Project,2019-07-14,2019-10-19
+Procter & Gamble Manufacturing Co.,PID791,BAU Activity,2013-06-09,2013-10-21
+Publix Super Markets Inc,PID792,Client Project,2016-08-19,2017-03-09
+GlaxoSmithKline LLC,PID793,Client Project,2016-04-01,2016-10-19
+Purdue Products LP,PID794,Client Project,2022-06-30,2022-10-11
+Dynarex Corporation,PID795,Client Project,2016-06-09,2016-09-19
+Novartis Pharmaceuticals Corporation,PID796,Client Project,2020-04-22,2020-08-09
+Dynarex Corporation,PID797,Sales Activity,2017-03-09,2017-07-27
+The Body Shop Wake Forest,PID798,Client Project,2022-11-26,2023-03-07
+"DN Company Co., Ltd.",PID799,Client Project,2017-12-19,2018-06-07
+Target Corporation,PID800,Sales Activity,2013-04-20,2013-09-09
+"Allergy Laboratories, Inc.",PID801,Client Project,2015-02-26,2015-07-03
+"Physicians Total Care, Inc.",PID802,Sales Activity,2014-07-31,2015-01-14
+LivCorp Inc.,PID803,Client Project,2013-12-18,2014-07-05
+"PD-Rx Pharmaceuticals, Inc.",PID804,Sales Activity,2021-02-01,2021-08-17
+"G&W Laboratories, Inc.",PID805,Sales Activity,2013-04-23,2013-09-03
+"Church Dwight Co., Inc.",PID806,Sales Activity,2023-07-15,2023-10-27
+B. Braun Medical Inc.,PID807,Client Project,2015-01-13,2015-04-18
+"DermDeal, LLC DBA CheryLee MD, Sensitive Skin Care",PID808,Client Project,2023-03-29,2023-08-13
+TRP Company,PID809,Client Project,2018-01-23,2018-05-04
+AMOREPACIFIC,PID810,BAU Activity,2014-09-25,2015-04-07
+Isomers Laboratories Inc,PID811,Sales Activity,2020-10-23,2021-03-06
+WOCKHARDT USA LLC.,PID812,Client Project,2016-07-01,2016-10-13
+Uriel Pharmacy Inc.,PID813,BAU Activity,2018-03-29,2018-09-16
+Topco Associates LLC,PID814,Client Project,2018-01-21,2018-08-06
+REMEDYREPACK INC.,PID815,Client Project,2016-03-16,2016-08-26
+H E B,PID816,Client Project,2013-11-07,2014-04-26
+Army & Air Force Exchange Service,PID817,Client Project,2021-11-13,2022-02-17
+Apotheca Company,PID818,Client Project,2018-01-24,2018-08-04
+Sagent Pharmaceuticals,PID819,Sales Activity,2015-01-17,2015-08-02
+REMEDYREPACK INC.,PID820,Client Project,2013-12-30,2014-05-16
+Jubilant HollisterStier LLC,PID821,Client Project,2023-07-29,2024-01-10
+Costco Wholesale Company,PID822,Client Project,2018-01-10,2018-04-28
+Moore Medical LLC,PID823,Client Project,2017-07-03,2017-11-21
+Pekana-Naturheilmittel GmbH,PID824,Client Project,2018-04-17,2018-08-22
+Laboratoire Dr. Renaud,PID825,Sales Activity,2024-02-27,2024-06-16
+Apotex Corp,PID826,Client Project,2015-10-09,2016-02-15
+International Nature Nutraceuticals,PID827,Client Project,2016-09-12,2017-03-21
+Rebel Distributors Corp,PID828,Client Project,2018-09-14,2018-12-22
+Juvena Produits de Beaute GMBH,PID829,Sales Activity,2018-03-02,2018-09-16
+Cadila Healthcare Limited,PID830,Sales Activity,2018-01-06,2018-07-24
+Mylan Institutional Inc.,PID831,Client Project,2017-05-30,2017-10-19
+"Aphena Pharma Solutions - Tennessee, LLC",PID832,Client Project,2021-03-08,2021-08-13
+"WG Critical Care, LLC",PID833,Client Project,2020-03-25,2020-08-29
+"ALK-Abello, Inc.",PID834,Sales Activity,2016-11-20,2017-05-24
+"Antigen Laboratories, Inc.",PID835,Sales Activity,2016-04-23,2016-08-08
+Safeway,PID836,Client Project,2023-03-24,2023-09-07
+"Antigen Laboratories, Inc.",PID837,Client Project,2014-05-09,2014-08-19
+"Watson Laboratories, Inc.",PID838,Client Project,2019-07-06,2019-11-23
+Roche Products Inc,PID839,Sales Activity,2017-12-11,2018-05-26
+RECEPTOPHARM INC,PID840,BAU Activity,2013-11-04,2014-03-21
+Natural Health Supply,PID841,Client Project,2019-09-26,2020-02-06
+Rebel Distributors Corp,PID842,Client Project,2014-04-20,2014-10-29
+Mylan Institutional LLC,PID843,Client Project,2021-04-17,2021-11-02
+Novartis Pharmaceuticals Corporation,PID844,Client Project,2013-02-22,2013-05-30
+Barr Laboratories Inc.,PID845,Client Project,2016-05-03,2016-09-07
+Meda Pharmaceuticals Inc.,PID846,Client Project,2014-04-28,2014-08-12
+"ALK-Abello, Inc.",PID847,Client Project,2018-10-27,2019-05-08
+"PD-Rx Pharmaceuticals, Inc.",PID848,Client Project,2021-06-24,2021-10-02
+Susanne Lang Fragrance Inc.,PID849,Sales Activity,2023-04-05,2023-08-10
+Macoven Pharmaceuticals,PID850,Sales Activity,2021-11-24,2022-04-29
+"Teva Women's Health, Inc.",PID851,Client Project,2022-05-21,2022-08-31
+State of Florida DOH Central Pharmacy,PID852,Client Project,2023-02-22,2023-09-04
+Ulta,PID853,Client Project,2017-05-30,2017-10-11
+"Physicians Total Care, Inc.",PID854,Client Project,2024-03-10,2024-09-20
+Care One (American Sales Company),PID855,Client Project,2021-03-18,2021-07-07
+"AvKARE, Inc.",PID856,Client Project,2020-06-14,2020-09-26
+Dr. Reddy's Laboratories Limited,PID857,BAU Activity,2017-12-18,2018-06-29
+L'Oreal USA Products Inc,PID858,Client Project,2016-11-29,2017-04-06
+Teva Pharmaceuticals USA Inc,PID859,Client Project,2013-10-28,2014-05-15
+"Physicians Total Care, Inc.",PID860,Client Project,2020-12-25,2021-04-08
+"Chattem, Inc.",PID861,Sales Activity,2016-11-11,2017-02-19
+"Nelco Laboratories, Inc.",PID862,Sales Activity,2023-04-27,2023-07-31
+China Ningbo Shangge Cosmetic Technology Corp.,PID863,Client Project,2017-05-23,2017-11-10
+Apotheca Company,PID864,BAU Activity,2020-04-16,2020-08-21
+Kroger Company,PID865,Client Project,2013-09-01,2014-01-09
+DZA BRANDS LLC,PID866,Sales Activity,2014-10-20,2015-03-05
+"Allergy Laboratories, Inc.",PID867,Sales Activity,2017-10-23,2018-03-27
+RedPharm Drug Inc.,PID868,Client Project,2013-08-06,2014-02-26
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID869,Client Project,2022-08-12,2022-12-30
+GlaxoSmithKline LLC,PID870,Client Project,2017-06-24,2017-10-30
+Rebel Distributors Corp,PID871,Sales Activity,2016-09-26,2017-01-14
+Pfizer Laboratories Div Pfizer Inc,PID872,Client Project,2020-03-31,2020-07-18
+"Teva Parenteral Medicines, Inc.",PID873,Client Project,2015-02-15,2015-06-04
+"Teva Women's Health, Inc.",PID874,Sales Activity,2022-12-29,2023-04-07
+REMEDYREPACK INC.,PID875,Client Project,2016-12-19,2017-07-04
+Procter & Gamble Manufacturing Company,PID876,Client Project,2014-05-07,2014-08-27
+"GRIFOLS USA, LLC",PID877,Client Project,2018-02-06,2018-07-25
+KAISER FOUNDATION HOSPITALS,PID878,Client Project,2016-01-30,2016-07-09
+Sandoz Inc.,PID879,Client Project,2020-10-14,2021-01-28
+"Physicians Total Care, Inc.",PID880,Client Project,2013-04-11,2013-08-31
+Mylan Pharmaceuticals Inc.,PID881,BAU Activity,2022-12-27,2023-05-01
+Water-Jel Technologies,PID882,Client Project,2022-08-27,2023-02-14
+"H.J. Harkins Company, Inc.",PID883,Sales Activity,2013-01-26,2013-07-14
+"Physicians Total Care, Inc.",PID884,Sales Activity,2022-01-22,2022-05-05
+Hydrox Laboratories,PID885,Client Project,2015-04-26,2015-08-31
+Contract Pharmacal Corp,PID886,Client Project,2023-03-03,2023-09-10
+"Beacon Promotions, Inc.",PID887,Sales Activity,2018-01-01,2018-06-18
+"ALK-Abello, Inc.",PID888,Sales Activity,2016-07-06,2016-12-21
+"Nelco Laboratories, Inc.",PID889,Client Project,2021-05-13,2021-10-22
+"General Injectables & Vaccines, Inc",PID890,Sales Activity,2017-03-08,2017-08-26
+"ALK-Abello, Inc.",PID891,Client Project,2016-02-16,2016-05-23
+VVF Illinois Services,PID892,Sales Activity,2023-09-17,2024-01-24
+"Cardinal Health, Inc.",PID893,Sales Activity,2020-02-19,2020-09-06
+Bryant Ranch Prepack,PID894,Client Project,2017-01-22,2017-08-09
+American Health Packaging,PID895,Client Project,2014-01-31,2014-08-12
+"DermaTAF, Inc.",PID896,Client Project,2019-09-02,2020-01-10
+Sandoz Inc,PID897,BAU Activity,2021-08-14,2022-01-03
+Mylan Pharmaceuticals Inc.,PID898,Client Project,2022-05-18,2022-11-05
+Actavis Elizabeth LLC,PID899,Client Project,2019-05-02,2019-08-15
+Uriel Pharmacy Inc.,PID900,Client Project,2017-08-04,2017-12-09
+"Greenbrier International, Inc",PID901,Client Project,2013-11-14,2014-03-19
+Topco Associates LLC,PID902,Sales Activity,2017-03-13,2017-08-17
+Home Sweet Homeopathics,PID903,Client Project,2015-10-09,2016-01-21
+Kroger Company,PID904,Sales Activity,2013-10-18,2014-01-24
+"NATURE REPUBLIC CO., LTD.",PID905,Sales Activity,2014-09-29,2015-01-13
+Mylan Institutional LLC,PID906,Sales Activity,2013-11-12,2014-03-30
+"Magna Pharmaceuticals, Inc.",PID907,BAU Activity,2022-07-08,2022-10-25
+Pharmacia and Upjohn Company,PID908,Client Project,2019-09-05,2019-12-11
+Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,PID909,Sales Activity,2015-07-06,2015-11-14
+"Hospira, Inc.",PID910,BAU Activity,2021-02-01,2021-08-13
+Aurobindo Pharma Limited,PID911,Client Project,2015-10-07,2016-04-19
+Sun Products Corporation,PID912,Client Project,2017-04-25,2017-10-08
+American Health Packaging,PID913,Client Project,2017-07-01,2017-11-09
+West-Ward Pharmaceutical Corp,PID914,Client Project,2013-07-22,2014-02-09
+"Hospira, Inc.",PID915,Sales Activity,2022-02-16,2022-06-29
+"Nelco Laboratories, Inc.",PID916,Client Project,2020-04-29,2020-10-15
+Aidarex Pharmaceuticals LLC,PID917,Client Project,2016-03-27,2016-08-02
+Publix Super Markets Inc,PID918,Client Project,2022-12-15,2023-04-24
+"Nelco Laboratories, Inc.",PID919,Sales Activity,2014-09-03,2014-12-09
+Jubilant HollisterStier LLC,PID920,Client Project,2013-05-26,2013-10-11
+Sanum Kehlbeck GmbH & Co. KG,PID921,Sales Activity,2017-08-24,2017-12-10
+NeoStrata Company Inc,PID922,Client Project,2021-06-14,2021-12-27
+"The Hain Celestial Group, Inc",PID923,Sales Activity,2018-12-01,2019-06-08
+"Physicians Total Care, Inc.",PID924,Client Project,2021-06-23,2021-10-29
+"Lil' Drug Store Products, Inc.",PID925,Client Project,2019-04-30,2019-10-16
+HOMEOLAB USA INC.,PID926,Sales Activity,2014-05-01,2014-10-11
+McKesson,PID927,Client Project,2020-04-08,2020-09-18
+Keltman Pharmaceuticals Inc.,PID928,Client Project,2022-04-24,2022-11-09
+Hyland's,PID929,Client Project,2023-04-22,2023-09-07
+"BioComp Pharma, Inc.",PID930,Sales Activity,2017-11-01,2018-05-08
+The Mentholatum Company,PID931,Sales Activity,2014-08-20,2014-12-07
+"Bath & Body Works, Inc.",PID932,Client Project,2023-08-08,2023-12-27
+Snowberry New Zealand Ltd,PID933,Sales Activity,2017-10-23,2018-04-29
+"Blacksmith Brands, Inc.",PID934,Client Project,2022-09-03,2023-03-10
+"Watson Pharma, Inc.",PID935,Sales Activity,2024-02-13,2024-08-26
+"Kareway Product, Inc.",PID936,Sales Activity,2018-09-06,2018-12-23
+"Areva Pharmaceuticals,Inc.",PID937,Sales Activity,2016-02-13,2016-07-26
+State of Florida DOH Central Pharmacy,PID938,Client Project,2021-03-26,2021-09-02
+"Publix Supermarkets, Inc.",PID939,Sales Activity,2022-11-02,2023-02-20
+Supervalu Inc,PID940,Sales Activity,2016-04-03,2016-08-13
+"NATURE REPUBLIC CO., LTD.",PID941,Sales Activity,2014-12-20,2015-04-05
+Mangiacotti Floral LLC,PID942,Sales Activity,2020-06-30,2021-01-07
+Legacy Pharmaceutical Packaging,PID943,Client Project,2021-01-17,2021-06-02
+CVS Pharmacy,PID944,Client Project,2022-11-29,2023-06-12
+Goodier Cosmetics LP,PID945,Client Project,2021-11-11,2022-04-18
+"Physicians Total Care, Inc.",PID946,Client Project,2024-03-15,2024-07-19
+"Par Pharmaceutical, Inc.",PID947,Client Project,2020-01-14,2020-07-25
+"CR Pharmacy Services, Inc.",PID948,Client Project,2015-11-21,2016-02-26
+Jafra cosmetics International,PID949,Sales Activity,2023-12-16,2024-03-22
+Ionx Holdings d/b/a HelloLife Inc.,PID950,Client Project,2022-01-04,2022-05-09
+"Natural Ophthalmics, Inc",PID951,Sales Activity,2022-05-20,2022-11-09
+State of Florida DOH Central Pharmacy,PID952,Client Project,2020-01-19,2020-05-24
+"Dolgencorp, LLC",PID953,Client Project,2019-11-18,2020-04-28
+"PHOENIX HEALTHCARE SOLUTIONS, LLC",PID954,BAU Activity,2019-12-20,2020-05-24
+IASO Inc,PID955,Client Project,2015-11-19,2016-05-24
+Aidarex Pharmaceuticals LLC,PID956,Sales Activity,2019-04-02,2019-10-20
+Amerisource Bergen,PID957,Client Project,2020-03-14,2020-06-24
+Apotheca Company,PID958,Client Project,2018-06-29,2018-10-08
+Novartis Pharmaceuticals Corporation,PID959,Client Project,2013-11-06,2014-05-25
+Teva Pharmaceuticals USA Inc,PID960,BAU Activity,2024-03-02,2024-08-16
+"Preferred Pharmaceuticals, Inc",PID961,BAU Activity,2022-12-31,2023-06-16
+REMEDYREPACK INC.,PID962,Client Project,2018-06-29,2018-12-04
+PHARMAZEUTISCHE FABRIK DR. RECKEWEG & CO,PID963,Sales Activity,2017-04-15,2017-08-03
+AMERICAN SALES COMPANY,PID964,Sales Activity,2018-06-24,2018-12-03
+"Dong Sung Pharm. Co., Ltd.",PID965,Client Project,2021-05-06,2021-09-23
+Boots Retail USA Inc,PID966,Client Project,2022-05-29,2022-10-10
+"Napoleon Perdis Cosmetics, Inc",PID967,Client Project,2018-03-13,2018-08-02
+VVF Kansas Services LLC,PID968,Client Project,2017-02-16,2017-05-24
+"Marc Glassman, Inc.",PID969,BAU Activity,2023-01-11,2023-05-01
+Unit Dose Services,PID970,Client Project,2018-04-07,2018-07-16
+HomeReach,PID971,Sales Activity,2019-08-07,2020-02-25
+Caraco Pharmaceutical Laboratories Ltd.,PID972,Client Project,2023-03-07,2023-06-13
+Uriel Pharmacy Inc.,PID973,Client Project,2014-09-12,2015-01-20
+Dr. Forhair,PID974,Client Project,2021-01-07,2021-06-12
+"Preferred Pharmaceuticals, Inc",PID975,Sales Activity,2014-09-12,2014-12-17
+"Hospira, Inc.",PID976,BAU Activity,2017-07-14,2017-12-24
+Walgreen Company,PID977,Client Project,2015-11-19,2016-03-01
+"Camber Pharmaceuticals, Inc.",PID978,BAU Activity,2016-03-17,2016-08-25
+Physicians Formula Inc.,PID979,Client Project,2015-07-24,2015-11-12
+CVS Pharmacy,PID980,Client Project,2019-04-24,2019-11-04
+"Delta Brands, Inc",PID981,Client Project,2013-03-03,2013-07-19
+"ProPhase Labs, Inc.",PID982,Sales Activity,2021-08-24,2021-11-29
+"Dispensing Solutions, Inc.",PID983,Client Project,2020-07-06,2020-10-26
+"Morton Grove Pharmaceuticals, Inc.",PID984,BAU Activity,2015-04-13,2015-08-18
+HOMEOLAB USA INC.,PID985,Client Project,2021-01-13,2021-05-01
+Ventura Corporation LTD.,PID986,Sales Activity,2022-05-24,2022-09-05
+Cardinal Health,PID987,Client Project,2020-11-05,2021-05-09
+Wockhardt USA LLC.,PID988,Sales Activity,2018-07-10,2018-10-30
+Best Choice,PID989,BAU Activity,2019-02-14,2019-05-27
+West-Ward Pharmaceutical Corp,PID990,Sales Activity,2023-11-29,2024-06-08
+"Creation's Garden Natural Products, Inc",PID991,Client Project,2019-09-08,2020-03-14
+Rebel Distributors Corp,PID992,Sales Activity,2023-02-12,2023-08-26
+JAFRA COSMETICS INTERNATIONAL,PID993,BAU Activity,2023-12-05,2024-06-10
+"Paddock Laboratories, LLC",PID994,Client Project,2013-09-09,2014-03-14
+"H.J. Harkins Company, Inc.",PID995,Sales Activity,2023-07-26,2024-01-31
+GlaxoSmithKline LLC,PID996,Client Project,2022-10-16,2023-01-27
+Kmart Corporation,PID997,Client Project,2021-04-09,2021-10-14
+Dukal Corporation,PID998,Client Project,2014-12-06,2015-05-19
+H-E-B,PID999,Sales Activity,2016-03-22,2016-09-26
+Mylan Pharmaceuticals Inc.,PID1000,BAU Activity,2019-06-22,2019-10-06

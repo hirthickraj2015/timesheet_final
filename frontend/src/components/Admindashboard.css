@@ -1,0 +1,92 @@
+.dagg {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 50px !important;
+  height: 50px !important;
+  background: linear-gradient(#19105b, #472067, #7c3375, #FF6196) !important;
+  border: none;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.sidebar-toggle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-toggle span {
+  font-size: 2.5rem;
+  color: #fff;
+}
+
+.nav {
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: -250px;
+  background: linear-gradient(#19105b, #472067, #7c3375, #FF6196) !important;
+  height: 100%;
+  overflow: hidden;
+  transition: left 0.5s;
+  padding-top: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-open {
+  left: 0;
+}
+
+.nav-close {
+  left: -250px;
+}
+
+.logo {
+  color: #fff;
+  font-size: 24px;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.links {
+  color: #fff;
+  font-size: 18px;
+  text-transform: capitalize;
+  padding: 10px 20px;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  display: block;
+}
+
+.links:hover {
+  background-color: #95a0b1;
+}
+
+.nav-icons {
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.content {
+  position: fixed;
+  top: 0;
+  height: 100%;
+  transition: left 0.5s, width 0.5s; /* Added width transition */
+  padding-top: 60px;
+  color: black;
+  font-size: 24px;
+  overflow-y: auto; /* Add overflow-y to enable vertical scrollbar */
+}

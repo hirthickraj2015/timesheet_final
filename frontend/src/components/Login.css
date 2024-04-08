@@ -1,0 +1,54 @@
+.total {
+  position: relative; /* Changed to relative */
+  background: linear-gradient(#19105b, #472067, #7c3375, #FF6196) !important;
+  height: 100vh; /* Adjusted height to fill the viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.total-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  overflow: hidden; 
+  max-width: 70%;
+  display: flex; /* Added */
+}
+
+.login-container {
+  display: flex; /* Added */
+  align-items: center; /* Added */
+  justify-content: center; /* Added */
+  flex-direction: column; /* Added */
+  
+}
+
+form {
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 50px;
+  height: 300px;
+  text-align: center;
+  width: 300px;
+}
+
+.login-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  color: #ffffff;
+  height: 100%;
+  width: 100%; /* Adjusted width to fill the container */
+}
+.btn{
+  margin-top: 10px;
+}
+
+/*Blue- #5a6bbb
+ gray-#95a0b1
+ black-#344454
+*/

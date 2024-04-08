@@ -1,0 +1,93 @@
+/* Resourceallocation.css */
+
+/* Main container */
+.resource-allocation-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Change to flex-start to make the form appear on top */
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #fff; /* Same background color as .bodyt */
+  color: #19105b; /* Same text color as .bodyt */
+}
+
+/* Form container */
+/* Form container */
+.resource-allocation-form {
+  background-color: #ffe5ee; /* Same background color as .feedback-form */
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%; /* Adjusted width to take a good amount of space */
+  max-width: 600px; /* Set a maximum width to prevent it from expanding too much */
+  background-color: #ffe5ee !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  height: 100%;
+  margin-bottom: 20px; /* Add margin-bottom for spacing */
+}
+
+/* Form label */
+.resource-allocation-form label {
+  text-align: left;
+  display: flex;
+  justify-self: start;
+  font-size: 13px;
+  font-weight: bold;
+  color: #19105b; /* Same text color as .feedback-form */
+}
+
+/* Select dropdown */
+.resource-allocation-select {
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 8px;
+  font-size: 13px;
+  color: #6a6c71;
+  margin-bottom: 10px; /* Add margin-bottom for spacing */
+}
+
+.resource-allocation-select:hover {
+  border-color: #999;
+}
+
+.resource-allocation-select:focus {
+  border-color: #19105b; /* Same focus color as .btn */
+}
+
+/* Input fields */
+.resource-allocation-input {
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 8px;
+  font-size: 13px;
+  color: #6a6c71;
+  margin-bottom: 10px; /* Add margin-bottom for spacing */
+}
+
+.resource-allocation-input:hover {
+  border-color: #999;
+}
+
+.resource-allocation-input:focus {
+  border-color: #19105b; /* Same focus color as .btn */
+}
+
+/* Button */
+.resource-allocation-btn {
+  background-color: #19105b; /* Same background color as .btns */
+  color: white; /* Same text color as .btns */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.resource-allocation-btn:hover {
+  background-color: #ff6196; /* Same hover background color as .btn */
+}

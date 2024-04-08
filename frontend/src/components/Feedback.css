@@ -1,0 +1,125 @@
+/* CSS Classes for styling */
+.bodyt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #19105b;
+}
+
+.feedback-form {
+  background-color: #ffe5ee;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  height: 50% !important;
+}
+
+.feedback-form label {
+  text-align: left;
+  display: flex;
+  justify-self: start;
+  font-size: 13px;
+  font-weight: bold;
+  color: #19105b;
+}
+
+.rating {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.rating i {
+  cursor: pointer;
+  color: #ccc;
+}
+
+.rating i.active,
+.rating i:hover {
+  color: gold;
+}
+
+.rating i.active {
+  filter: drop-shadow(0 0 5px gold);
+}
+
+.rating i:hover {
+  filter: drop-shadow(0 0 5px gold);
+}
+
+.rating i:hover ~ i.active {
+  color: #ccc;
+}
+
+.btns {
+  background-color: #19105b;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #ff6196;
+}
+
+input[type="text"],
+select,
+input[type="number"],
+textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 8px;
+  font-size: 13px;
+  color: #6a6c71;
+}
+
+input[type="text"]:hover,
+input[type="number"]:hover,
+select:hover,
+textarea:hover {
+  border-color: #999;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus,
+textarea:focus {
+  border-color: #19105b;
+  outline: none;
+}
+
+textarea {
+  height: 100px;
+  border-radius: 5px;
+  resize: none;
+  margin-bottom: 20px;
+}
+
+textarea::-webkit-scrollbar {
+  width: 6px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: #999;
+  border-radius: 3px;
+}
+
+textarea::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}

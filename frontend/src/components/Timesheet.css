@@ -1,0 +1,118 @@
+
+
+.allow {
+    padding-left: 20px;
+    background-color: #19105B;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    margin: 3px;
+}
+.tm {
+    display: flex;
+    justify-content: start !important;
+}
+.tbl {
+    width: 100%;
+    border-collapse: collapse;
+    background: #FFE5EE !important;
+    font-size: 13px;
+    font-weight: bold;
+    color: #19105B !important;
+}
+
+.tbl td {
+    padding: 8px;
+    text-align: center;
+    border: none; /* Remove border for table cells */
+}
+
+.tbl th {
+    padding: 8px;
+    text-align: center;
+    border: none; /* Remove border for table headers */
+}
+
+.tblhd {
+    background: #FFE5EE !important;
+    font-size: 13px;
+    font-weight: bold;
+    color: #19105B !important;
+}
+
+.tblno {
+    background: #fff;
+    color: #6a6c71;
+    padding: 10px !important;
+    font-size: 13px;
+}
+
+input[type="text"],
+select,
+input[type="number"] {
+    width: 100%;
+    border: 1px solid #ccc; /* Add border to input and select fields */
+    outline: none;
+    padding: 8px; /* Add padding for better spacing */
+}
+
+input[type="text"]:hover,
+input[type="number"]:hover,
+select:hover {
+    border-color: #999; /* Change border color on hover */
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus {
+    border-color: #19105B; /* Change border color on focus */
+    outline: none;
+}
+
+.tda {
+    background: #fff;
+    color: #6a6c71;
+    padding: 10px !important;
+    font-size: 13px;
+    font-weight: normal;
+}
+.btns{
+    background-color: #19105B;
+    color: white;
+    max-width: 120px;
+}
+.btns1{
+    background-color: #FF6196 ;
+    color:white;
+    margin-left: 20px;
+    margin-top: 20px;
+    max-width: 120px;
+    max-height: 40px;
+    font-weight: bold;
+}
+
+.btns1:hover{
+    background-color: #19105B !important;
+}
+.btd{
+    margin: 30px;
+    display: flex;
+    justify-content: right;
+    
+}
+i{
+    color: black;
+}
+.logt{
+    color: white;
+}
+
+/* Timeline.css or your global CSS file */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
