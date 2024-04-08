@@ -132,7 +132,7 @@ function AddProject() {
         </div>
         {formData.tasks.length > 0 && (
           <div className="form-group">
-            <label>Added Tasks:</label>
+            <label>Added Task</label>
             <ul>
               {formData.tasks.map((task, index) => (
                 <li key={index}>{task}</li>
